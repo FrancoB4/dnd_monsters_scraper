@@ -13,7 +13,7 @@ CREATURE_BASIC_DATA = '//div[@class="article-2-columns"]/p/node()/text()'
 CREATURES_DESCRIPTION = '//div[@class="article-2-columns"]/p[1]/text()'
 # caracteristicas = //table[@class="table table-xs"]//th/text() (names)
 CREATURE_TABLE_NAMES = '//table[@class="table table-xs"]//th/text()'
-# pts caracteristicas = //table[@class="table table-xs"]//td/span/text() (STATS)
+# pts caracteristicas = //table[@class="table table-xs"]//td/span/text()
 CREATURE_TABLE_VALUES = '//table[@class="table table-xs"]//td/span/text()'
 # habilidades = //div[@class="article-2-columns"]/p[2]/node()/text()
 CREATURE_COMPETENCES = '//div[@class="article-2-columns"]/p[2]/node()/text()'
@@ -40,9 +40,9 @@ class monstersSpider(scrapy.Spider):
     def parse_monster(self, response, **kwargs):
         monster_link = kwargs['url']
         monster_name = response.xpath(CREATURE_NAME).get().replace('\n', '')
-        description = f'{response.xpath(CREATURES_DESCRIPTION).getall()}'.replace('\'', '')
+        description = f'{response.xpath(CREATURES_DESCRIPTION).getall()}'.replace(
+            '\'', '')
         description = description.replace(',', '')
-        # monster_basic = response.xpath(CREATURE_BASIC_DATA).getall()
         monster_table_names = response.xpath(CREATURE_TABLE_NAMES).getall()
         monster_table_values = response.xpath(CREATURE_TABLE_VALUES).getall()
         monster_table = {f'{table}': monster_table_values[i]
@@ -50,7 +50,6 @@ class monstersSpider(scrapy.Spider):
         yield {
             'name': monster_name,
             'descripcion': description,
-            # 'basics': monster_basic,
             'table': monster_table,
             'link': monster_link
         }
