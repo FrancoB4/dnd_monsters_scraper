@@ -1,0 +1,4123 @@
+[
+    {
+        "name": "Arbusto consciente",
+        "descripcion": "[Un arbusto consciente es un arbusto normal al que se ha dotado de consciencia y movilidad mediante el conjuro   o una magia similar.]",
+        "table": {
+            "Fue": "3 (-4)",
+            "Des": "8 (-1)",
+            "Con": "11 (+0)",
+            "Int": "10 (+0)",
+            "Sab": "10 (+0)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/207-arbusto-consciente"
+    },
+    {
+        "name": "Alfombra de asfixiar",
+        "descripcion": "[Una alfombra de aspecto corriente que movida por la magia envuelve a los intrusos para asfixiarlos.]",
+        "table": {
+            "Fue": "17 (+3)",
+            "Des": "14 (+2)",
+            "Con": "10 (+0)",
+            "Int": "1 (-5)",
+            "Sab": "3 (-4)",
+            "Car": "1 (-5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/3-alfombra-de-asfixiar"
+    },
+    {
+        "name": "Árbol consciente",
+        "descripcion": "[Un árbol consciente es un árbol normal al que se ha dotado de consciencia y movilidad mediante el conjuro   o una magia similar.]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "6 (-2)",
+            "Con": "15 (+2)",
+            "Int": "10 (+0)",
+            "Sab": "10 (+0)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/295-arbol-consciente"
+    },
+    {
+        "name": "Alce gigante",
+        "descripcion": "[El majestuoso alce gigante es tan raro de ver que su presencia se considera el augurio de un evento importante como el nacimiento de un rey. Hay leyendas que hablan de dioses que adoptan la forma de un alce gigante cuando visitan el Plano Material. Muchas culturas creen por tanto que cazar a estas criaturas es invitar a la ira divina.]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "16 (+3)",
+            "Con": "14 (+2)",
+            "Int": "7 (-2)",
+            "Sab": "14 (+2)",
+            "Car": "10 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/202-alce-gigante"
+    },
+    {
+        "name": "Araña lobo gigante",
+        "descripcion": "[La araña lobo gigante es más pequeña que la araña gigante. Caza a sus presas en terrenos abiertos o escondiéndose en madrigueras grietas o en una cavidad entre escombros.]",
+        "table": {
+            "Fue": "12 (+1)",
+            "Des": "16 (+3)",
+            "Con": "13 (+1)",
+            "Int": "3 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "4 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/206-arana-lobo-gigante"
+    },
+    {
+        "name": "Ankheg",
+        "descripcion": "[Pocos depredadores son más aborrecidos que el ankheg un enorme insecto excavador que puede agarrar a un humano con sus mandíbulas y escupir un ácido capaz de corroer el acero. Esta bestia es experta en moverse por túneles subterráneos donde aguarda hasta detectar calor o vibraciones que le den la señal para atacar de forma sorpresiva y letal.]",
+        "table": {
+            "Fue": "17 (+3)",
+            "Des": "11 (+0)",
+            "Con": "13 (+1)",
+            "Int": "1 (-5)",
+            "Sab": "13 (+1)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/5-ankheg"
+    },
+    {
+        "name": "Araña",
+        "descripcion": "[:  : Bestia : 12 : 1 (1d4–1) : 0 (10 PX) : 20 pies 20 pies escalando]",
+        "table": {
+            "Fue": "2 (-4)",
+            "Des": "14 (+2)",
+            "Con": "8 (-1)",
+            "Int": "1 (-5)",
+            "Sab": "10 (+0)",
+            "Car": "2 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/203-arana"
+    },
+    {
+        "name": "Araña de fase",
+        "descripcion": "[Las arañas de fase poseen la habilidad mágica de saltar fuera y dentro del Plano Etéreo. Es como si aparecieran de ninguna parte y luego se desvanecieran rápidamente después de atacar. El hecho de moverse al Plano Etéreo antes de volver al Plano Material hace que parezca que pueden teleportarse.]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "15 (+2)",
+            "Con": "12 (+1)",
+            "Int": "6 (-2)",
+            "Sab": "10 (+0)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/204-arana-de-fase"
+    },
+    {
+        "name": "Araña gigante",
+        "descripcion": "[Para atrapar a su presa la araña gigante teje elaboradas telarañas o dispara tiras de telarañas de su abdomen. Las arañas gigantes se suelen encontrar bajo tierra pero también construyen sus guaridas en techos o en grietas oscuras y llenas de telarañas. Tales guaridas suelen estar adornadas con capullos de telarañas que contienen a sus víctimas.]",
+        "table": {
+            "Fue": "14 (+2)",
+            "Des": "16 (+3)",
+            "Con": "12 (+1)",
+            "Int": "2 (-4)",
+            "Sab": "11 (+0)",
+            "Car": "4 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/205-arana-gigante"
+    },
+    {
+        "name": "Androesfinge",
+        "descripcion": "[Un enorme y majestuoso león dotado de enormes alas de águila con un rostro humanoide que irradia serenidad sabiduría y nobleza. Con su voz y arcana sabiduría pone a prueba el corazón de quienes se le acercan y otorga su favor a quienes se muestran decididos y valientes ya sea porque soportan su rugido resuelven sus acertijos o llevan a cabo las heroicas hazañas que les plantea.]",
+        "table": {
+            "Fue": "22 (+6)",
+            "Des": "10 (+0)",
+            "Con": "20 (+5)",
+            "Int": "16 (+3)",
+            "Sab": "18 (+4)",
+            "Car": "23 (+6)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/4-androesfinge"
+    },
+    {
+        "name": "Alce",
+        "descripcion": "[:  : Bestia : 10 : 13 : 1/4 (50 PX) : 50 pies]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "10 (+0)",
+            "Con": "12 (+1)",
+            "Int": "2 (-4)",
+            "Sab": "10 (+0)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/201-alce"
+    },
+    {
+        "name": "Águila gigante",
+        "descripcion": "[Un águila gigante es una noble criatura que habla su propio idioma y entiende lo que se dice en el idioma común. Dos águilas gigantes que se aparean normalmente tienen hasta cuatro huevos o polluelos en su nido (considera a los polluelos como águilas normales).]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "17 (+3)",
+            "Con": "13 (+1)",
+            "Int": "8 (-1)",
+            "Sab": "14 (+2)",
+            "Car": "10 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/294-aguila-gigante"
+    },
+    {
+        "name": "Águila",
+        "descripcion": "[:  : Bestia : 12 : 3 : 0 (10 PX) : 10 pies 60 pies volando]",
+        "table": {
+            "Fue": "6 (-2)",
+            "Des": "15 (+2)",
+            "Con": "10 (+0)",
+            "Int": "2 (-4)",
+            "Sab": "14 (+2)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/293-aguila"
+    },
+    {
+        "name": "Acólito",
+        "descripcion": "[Los acólitos son miembros jóvenes del clero que normalmente responden ante un sacerdote. Realizan varias funciones en un templo y sus deidades les conceden un poder menor para lanzar conjuros.]",
+        "table": {
+            "Fue": "10 (+0)",
+            "Des": "10 (+0)",
+            "Con": "10 (+0)",
+            "Int": "10 (+0)",
+            "Sab": "14 (+2)",
+            "Car": "11 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/296-acolito"
+    },
+    {
+        "name": "Acechador invisible",
+        "descripcion": "[El acechador invisible es una entidad elemental de otro plano vinculado al aire que aunque es percibida como un potente golpe de aire carece de forma física. Suelen invocarlo a la fuerza hechiceros magos y otros practicantes de magia planar para emplearlo como criado. Estas sensibles entidades trabajan para sus amos mortales a disgusto limitándose a realizar sus tareas al pie de la letra o retorciéndolas si no han sido enunciadas con cuidado. No son pocos los magos que han acabado muertos al ordenar en un momento de apuro a su rencoroso acechador invisible que lo pusiese a salvo.]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "19 (+4)",
+            "Con": "14 (+2)",
+            "Int": "10 (+0)",
+            "Sab": "15 (+2)",
+            "Car": "11 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/2-acechador-invisible"
+    },
+    {
+        "name": "Abolez",
+        "descripcion": "[Esta alargada criatura pisciforme dotada de tres musculosos tentáculos y una formidable cola es el señor indiscutible de las aguas más tenebrosas desde épocas pretéritas. Su cuerpo escamoso exuda un negro icor que contamina el agua mientras que sus crueles ojos destellan rojos especialmente cuando usa su poderosa mente para subyugar a cuanto humanoide encuentre. Lo último que ven sus presas al dirigirse al agua con una boba sonrisa son sus fauces dotada de hilera tras hilera de largos y puntiagudos dientes.]",
+        "table": {
+            "Fue": "21 (+5)",
+            "Des": "9 (-1)",
+            "Con": "15 (+2)",
+            "Int": "18 (+4)",
+            "Sab": "15 (+2)",
+            "Car": "18 (+4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/1-abolez"
+    },
+    {
+        "name": "Bálor",
+        "descripcion": "[El enorme bálor es la encarnación de la destrucción demoniaca. Su enorme cuerpo desnudo tiene el color de la sangre recién derramada sus correosas alas ocultan la luz del sol y el fuego que lo rodea quema el aire a su alrededor. Blande en una mano una terrible espada hecha de tormentas y en la otra un látigo de fuego con los que destruye a los insensatos que se le oponen.]",
+        "table": {
+            "Fue": "26 (+8)",
+            "Des": "15 (+2)",
+            "Con": "22 (+6)",
+            "Int": "20 (+5)",
+            "Sab": "16 (+3)",
+            "Car": "22 (+6)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/14-balor"
+    },
+    {
+        "name": "Babuino",
+        "descripcion": "[:  : Bestia : 12 : 3 : 0 (10 PX) : 30 pies 30 pies escalando]",
+        "table": {
+            "Fue": "8 (-1)",
+            "Des": "14 (+2)",
+            "Con": "11 (+0)",
+            "Int": "4 (-3)",
+            "Sab": "12 (+1)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/209-babuino"
+    },
+    {
+        "name": "Ballena asesina",
+        "descripcion": "[:  : Bestia : 12 (armadura natural) : 90 : 3 (700 PX) : 0 pies 60 pies nadando]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "10 (+0)",
+            "Con": "13 (+1)",
+            "Int": "3 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/210-ballena-asesina"
+    },
+    {
+        "name": "Azer",
+        "descripcion": "[El azer recuerda a un enano con barba y melena hechas de fuego y piel de bronce bruñido que brilla como si estuviese aún en su forja. Estos elementales son una raza de maestros herreros y hábiles guerreros que combaten con sus ardientes martillos a toda suerte de enemigos incluidos aquellos tan necios como para violar los límites de sus reinos. Tal es su fama que no son pocos quienes invocan a los azer como guardias o para demandar la elaboración de algún objeto mágico.]",
+        "table": {
+            "Fue": "17 (+3)",
+            "Des": "12 (+1)",
+            "Con": "15 (+2)",
+            "Int": "12 (+1)",
+            "Sab": "13 (+1)",
+            "Car": "10 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/8-azer"
+    },
+    {
+        "name": "Avispa gigante",
+        "descripcion": "[:  : Bestia : 12 : 13 : 1/2 (100 PX) : 10 pies 50 pies volando]",
+        "table": {
+            "Fue": "10 (+0)",
+            "Des": "14 (+2)",
+            "Con": "10 (+0)",
+            "Int": "1 (-5)",
+            "Sab": "10 (+0)",
+            "Car": "3 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/208-avispa-gigante"
+    },
+    {
+        "name": "Asesino",
+        "descripcion": "[Los asesinos están entrenados en el uso del veneno y matan sin remordimientos para los nobles jefes de gremios soberanos y cualquiera que pueda costeárselos.]",
+        "table": {
+            "Fue": "11 (+0)",
+            "Des": "16 (+3)",
+            "Con": "14 (+2)",
+            "Int": "13 (+1)",
+            "Sab": "11 (+0)",
+            "Car": "10 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/298-asesino"
+    },
+    {
+        "name": "Arpía",
+        "descripcion": "[Las arpías son monstruosidades que mezclan atributos de mujer con los de ave de carroña. Son capaces de volar con sus emplumadas alas y de cantar de forma tan sublime que atraen a todo el que las escucha como corderos al matadero. Las arpías blanden toscos garrotes a veces hechos con los mondos huesos de sus víctimas.]",
+        "table": {
+            "Fue": "12 (+1)",
+            "Des": "13 (+1)",
+            "Con": "12 (+1)",
+            "Int": "7 (-2)",
+            "Sab": "10 (+0)",
+            "Car": "13 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/7-arpia"
+    },
+    {
+        "name": "Armadura animada",
+        "descripcion": "[Una armadura de placas completa animada con magia que ataca a sus enemigos con sus guanteletes de hierro.]",
+        "table": {
+            "Fue": "14 (+2)",
+            "Des": "11 (+0)",
+            "Con": "13 (+1)",
+            "Int": "1 (-5)",
+            "Sab": "3 (-4)",
+            "Car": "1 (-5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/6-armadura-animada"
+    },
+    {
+        "name": "Archimago",
+        "descripcion": "[Los archimagos son lanzadores de conjuros poderosos (y normalmente bastante viejos) que se dedican al estudio de las artes arcanas. Los benevolentes aconsejan a reyes y reinas mientras que los malvados gobiernan como tiranos y aspiran a seguir la senda del liche. Aquellos que no son ni buenos ni malignos se recluyen en torres remotas para practicar su magia sin interrupciones.]",
+        "table": {
+            "Fue": "10 (+0)",
+            "Des": "14 (+2)",
+            "Con": "12 (+1)",
+            "Int": "20 (+5)",
+            "Sab": "15 (+2)",
+            "Car": "16 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/297-archimago"
+    },
+    {
+        "name": "Cangrejo",
+        "descripcion": "[:  : Bestia : 11 (armadura natural) : 2 : 0 (10 PX) : 20 pies 20 pies nadando]",
+        "table": {
+            "Fue": "2 (-4)",
+            "Des": "11 (+0)",
+            "Con": "10 (+0)",
+            "Int": "1 (-5)",
+            "Sab": "8 (-1)",
+            "Car": "2 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/223-cangrejo"
+    },
+    {
+        "name": "Capitán bandido",
+        "descripcion": "[Se necesita una personalidad fuerte una astucia implacable y una lengua de plata para mantener a una banda de bandidos bajo control. El capitán bandido tiene esas cualidades a raudales.]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "16 (+3)",
+            "Con": "14 (+2)",
+            "Int": "14 (+2)",
+            "Sab": "11 (+0)",
+            "Car": "14 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/302-capitan-bandido"
+    },
+    {
+        "name": "Cangrejo gigante",
+        "descripcion": "[:  : Bestia : 15 (armadura natural) : 13 : 1/8 (25 PX) : 30 pies 30 pies nadando]",
+        "table": {
+            "Fue": "13 (+1)",
+            "Des": "15 (+2)",
+            "Con": "11 (+0)",
+            "Int": "1 (-5)",
+            "Sab": "9 (-1)",
+            "Car": "3 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/224-cangrejo-gigante"
+    },
+    {
+        "name": "Can del infierno",
+        "descripcion": "[Estos delgados sabuesos de cuerpo rojizo ojos incandescentes y garras color carbón son cazadores extraordinarios cuando se encuentran en grupo siendo capaces de derribar y cazar a presas mucho más grandes que ellos. El can del infierno recorre en manada las regiones infernales movido por su gran intelecto y aguda maldad aunque no es raro ver en otros planos ejemplares que han sido invocados como guardianes o tropas de asalto.]",
+        "table": {
+            "Fue": "17 (+3)",
+            "Des": "12 (+1)",
+            "Con": "14 (+2)",
+            "Int": "6 (-2)",
+            "Sab": "13 (+1)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/15-can-del-infierno"
+    },
+    {
+        "name": "Camello",
+        "descripcion": "[:  : Bestia : 9 : 15 : 1/8 (25 PX) : 50 pies]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "8 (-1)",
+            "Con": "14 (+2)",
+            "Int": "2 (-4)",
+            "Sab": "8 (-1)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/222-camello"
+    },
+    {
+        "name": "Cabra gigante",
+        "descripcion": "[:  : Bestia : 11 (armadura natural) : 19 : 1/2 (100 PX) : 40 pies]",
+        "table": {
+            "Fue": "17 (+3)",
+            "Des": "11 (+0)",
+            "Con": "12 (+1)",
+            "Int": "3 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/221-cabra-gigante"
+    },
+    {
+        "name": "Cabra",
+        "descripcion": "[:  : Bestia : 10 : 4 : 0 (10 PX) : 40 pies]",
+        "table": {
+            "Fue": "12 (+1)",
+            "Des": "10 (+0)",
+            "Con": "11 (+0)",
+            "Int": "2 (-4)",
+            "Sab": "10 (+0)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/220-cabra"
+    },
+    {
+        "name": "Centauro",
+        "descripcion": "[El centauro es un impresionante guerrero con tronco cabeza y brazos de humano pero cuerpo y patas de caballo. Se organizan en tribus que se mueven según las estaciones o siguiendo los augurios que interpretan sus oráculos y videntes ocupando vastas extensiones salvajes donde combaten a las criaturas malignas que se topen. En combate asaetean a sus enemigos con sus arcos antes de cargar con brutalidad con sus picas en mano. Si algún enemigo sobrevive al lance inicial dan buena cuenta de ellos gracias a la fuerza de sus patas.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "14 (+2)",
+            "Con": "14 (+2)",
+            "Int": "9 (-1)",
+            "Sab": "13 (+1)",
+            "Car": "11 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/16-centauro"
+    },
+    {
+        "name": "Caballo de tiro",
+        "descripcion": "[:  : Bestia : 10 : 19 : 1/4 (50 PX) : 40 pies]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "10 (+0)",
+            "Con": "12 (+1)",
+            "Int": "2 (-4)",
+            "Sab": "11 (+0)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/219-caballo-de-tiro"
+    },
+    {
+        "name": "Caballo de monta",
+        "descripcion": "[:  : Bestia : 10 : 13 : 1/4 (50 PX) : 60 pies]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "10 (+0)",
+            "Con": "12 (+1)",
+            "Int": "2 (-4)",
+            "Sab": "11 (+0)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/218-caballo-de-monta"
+    },
+    {
+        "name": "Caballo de guerra",
+        "descripcion": "[:  : Bestia : 11 : 19 : 1/2 (100 PX) : 60 pies]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "12 (+1)",
+            "Con": "13 (+1)",
+            "Int": "2 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/217-caballo-de-guerra"
+    },
+    {
+        "name": "Caballito de mar gigante",
+        "descripcion": "[Al igual que su versión pequeña los caballitos de mar gigantes son unos peces vergonzosos con cuerpos alargados y coloridos y colas redondeadas. Los elfos acuáticos los entrenan como monturas.]",
+        "table": {
+            "Fue": "12 (+1)",
+            "Des": "15 (+2)",
+            "Con": "11 (+0)",
+            "Int": "2 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/216-caballito-de-mar-gigante"
+    },
+    {
+        "name": "Caballito de mar",
+        "descripcion": "[:  : Bestia : 11 : 1 (1d4–1) : 0 (10 PX) : 0 pies 20 pies nadando]",
+        "table": {
+            "Fue": "1 (-5)",
+            "Des": "12 (+1)",
+            "Con": "8 (-1)",
+            "Int": "1 (-5)",
+            "Sab": "10 (+0)",
+            "Car": "2 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/215-caballito-de-mar"
+    },
+    {
+        "name": "Caballero",
+        "descripcion": "[Los caballeros son guerreros que juran servicio a gobernantes órdenes religiosas y causas nobles. El alineamiento de un caballero determina lo honorable de su juramento. Cuando asume una misión o patrulla por un reino un caballero suele viajar con un séquito que incluye escuderos y mercenarios plebeyos.]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "11 (+0)",
+            "Con": "14 (+2)",
+            "Int": "11 (+0)",
+            "Sab": "11 (+0)",
+            "Car": "15 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/301-caballero"
+    },
+    {
+        "name": "Bulete",
+        "descripcion": "[El bulete es un depredador fiero y malhumorado de extraordinaria territorialidad. Este cuadrúpedo dotado de una dura coraza gris y morro alargado y erizado por hileras de dientes excava a tal velocidad que se diría que nada por ella de ahí que se le llame también tiburón de tierra pues cuando se mueve bajo tierra deja ver solo un surco de tierra dibujado por su aleta dorsal. El bulete es capaz de dar saltos verticales prodigiosos y es conocido por abalanzarse sobre sus presas para aplastarlas e incapacitarlas. Por fortuna estas temerarias bestias suelen solitarias.]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "11 (+0)",
+            "Con": "21 (+5)",
+            "Int": "2 (-4)",
+            "Sab": "10 (+0)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/13-bulete"
+    },
+    {
+        "name": "Buitre gigante",
+        "descripcion": "[El buitre gigante tiene una avanzada inteligencia y una inclinación malévola. A diferencia de su versión más pequeña atacará a una criatura herida para acelerar su final. Los buitres gigantes son conocidos por acechar a criaturas sedientas y hambrientas durante días para disfrutar de su sufrimiento.]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "10 (+0)",
+            "Con": "15 (+2)",
+            "Int": "6 (-2)",
+            "Sab": "12 (+1)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/212-buitre-gigante"
+    },
+    {
+        "name": "Buitre",
+        "descripcion": "[:  : Bestia : 10 : 5 : 0 (10 PX) : 10 pies 50 pies volando]",
+        "table": {
+            "Fue": "7 (-2)",
+            "Des": "10 (+0)",
+            "Con": "13 (+1)",
+            "Int": "2 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "4 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/211-buitre"
+    },
+    {
+        "name": "Búho gigante",
+        "descripcion": "[Los búhos gigantes a veces se hacen amigos de las fatas y de otras criaturas silvanas y son guardianes de sus dominios de los bosques.]",
+        "table": {
+            "Fue": "13 (+1)",
+            "Des": "15 (+2)",
+            "Con": "12 (+1)",
+            "Int": "8 (-1)",
+            "Sab": "13 (+1)",
+            "Car": "10 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/214-buho-gigante"
+    },
+    {
+        "name": "Bocón barbotante",
+        "descripcion": "[Estas masas de carne hueso grasa y baba son engendros informes salidos de la peor pesadilla de un loco. Dotados de innumerables ojos y fauces que se arrastran por el suelo en busca de alimento empiezan a parlotear en lengua común de forma enloquecida cuando encuentran una presa… y siguen cuando han logrado capturarla. Con su exceso de babas el bocón barbotante corrompe el terreno en el que se encuentra haciendo que el suelo se vuelva inestable y resbaladizo para facilitarse la caza.]",
+        "table": {
+            "Fue": "10 (+0)",
+            "Des": "8 (-1)",
+            "Con": "16 (+3)",
+            "Int": "3 (-4)",
+            "Sab": "10 (+0)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/11-bocon-barbotante"
+    },
+    {
+        "name": "Búho",
+        "descripcion": "[:  : Bestia : 11 : 1 (1d4–1) : 0 (10 PX) : 5 pies 60 pies volando]",
+        "table": {
+            "Fue": "3 (-4)",
+            "Des": "13 (+1)",
+            "Con": "8 (-1)",
+            "Int": "2 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/213-buho"
+    },
+    {
+        "name": "Broza movediza",
+        "descripcion": "[Al ojo inexperto o desprevenido la broza movediza se le antojará un montón de vegetación muerta y putrefacta error que se puede volver letal cuando la planta antropófaga se lanza al ataque una vez que se sabe en ventaja. La broza movediza capaz de engullir a un humano adulto reduce a golpes a sus presas y después las mata para facilitarse la digestión y se retira de la lucha mimetizándose con el entorno. Estas criaturas parecen disfrutar de las tormentas de las cuales obtienen fuerza y vigor.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "8 (-1)",
+            "Con": "16 (+3)",
+            "Int": "5 (-3)",
+            "Sab": "10 (+0)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/12-broza-movediza"
+    },
+    {
+        "name": "Berserker",
+        "descripcion": "[Los impredecibles bersekers llegan desde las tierras incivilizadas en partidas de guerra y buscan conflicto allá donde puedan encontrarlo.]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "12 (+1)",
+            "Con": "17 (+3)",
+            "Int": "9 (-1)",
+            "Sab": "11 (+0)",
+            "Car": "9 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/300-berserker"
+    },
+    {
+        "name": "Behir",
+        "descripcion": "[Estos viles parientes de los dragones son una mezcla de pesadilla entre escolopendra y serpiente con cuerpos escamosos dotados numerosas patas que les permiten moverse con velocidad por suelos techos y paredes. Los behíres son cazadores muy territoriales que se abalanzan sobre sus presas para constreñirlas con sus cuerpos después de debilitarlas a mordiscos o usando los relámpagos que exhalan como si fueran auténticos dragones. Pocos destinos son más terribles que acabar engullido vivo por un behir.]",
+        "table": {
+            "Fue": "23 (+6)",
+            "Des": "16 (+3)",
+            "Con": "18 (+4)",
+            "Int": "7 (-2)",
+            "Sab": "14 (+2)",
+            "Car": "12 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/10-behir"
+    },
+    {
+        "name": "Basilisco",
+        "descripcion": "[El basilisco es un pesado reptil dotado de hasta ocho pares de patas y una mandíbula repleta de ponzoña venenosa un depredador vicioso cuya mirada convierte a sus presas literalmente en roca. Mora en páramos de polvo piedra rota y arena pues el basilisco se alimenta de los seres vivos que convierte en mineral para triturar con sus brutales fauces. Aunque peligrosa la caza del basilisco es muy rentable ya que de obtener sus huevos se le podrá entrenar para convertirse en un leal guardián y su veneno vale el rescate de un príncipe mercader en según qué círculos.]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "8 (-1)",
+            "Con": "15 (+2)",
+            "Int": "2 (-4)",
+            "Sab": "8 (-1)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/9-basilisco"
+    },
+    {
+        "name": "Bandido",
+        "descripcion": "[Los bandidos se organizan en bandas y a veces están liderados por matones veteranos o lanzadores de conjuros. No todos los bandidos son malignos. La opresión la sequía la enfermedad o la hambruna pueden conducir a gentes honestas a una vida de bandidaje.]",
+        "table": {
+            "Fue": "11 (+0)",
+            "Des": "12 (+1)",
+            "Con": "12 (+1)",
+            "Int": "10 (+0)",
+            "Sab": "10 (+0)",
+            "Car": "10 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/299-bandido"
+    },
+    {
+        "name": "Cría de dragón de cobre",
+        "descripcion": "[:  : Monstruo : 16 (armadura natural) : 22 : 1 (200 PX) : 30 pies 30 pies escalando 60 pies volando]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "12 (+1)",
+            "Con": "13 (+1)",
+            "Int": "14 (+2)",
+            "Sab": "11 (+0)",
+            "Car": "13 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/47-cria-de-dragon-de-cobre"
+    },
+    {
+        "name": "Cría de dragón de plata",
+        "descripcion": "[:  : Monstruo : 17 (armadura natural) : 45 : 2 (450 PX) : 30 pies 60 pies volando]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "10 (+0)",
+            "Con": "17 (+3)",
+            "Int": "12 (+1)",
+            "Sab": "11 (+0)",
+            "Car": "15 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/59-cria-de-dragon-de-plata"
+    },
+    {
+        "name": "Cría de dragón blanco",
+        "descripcion": "[:  : Monstruo : 16 (armadura natural) : 32 : 2 (450 PX) : 30 pies 15 pies excavando 60 pies volando 30 pies nadando]",
+        "table": {
+            "Fue": "14 (+2)",
+            "Des": "10 (+0)",
+            "Con": "14 (+2)",
+            "Int": "5 (-3)",
+            "Sab": "10 (+0)",
+            "Car": "11 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/40-cria-de-dragon-blanco"
+    },
+    {
+        "name": "Cría de dragón de oropel",
+        "descripcion": "[:  : Monstruo : 16 (armadura natural) : 16 : 1 (200 PX) : 30 pies 15 pies excavando 60 pies volando]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "10 (+0)",
+            "Con": "13 (+1)",
+            "Int": "10 (+0)",
+            "Sab": "11 (+0)",
+            "Car": "13 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/55-cria-de-dragon-de-oropel"
+    },
+    {
+        "name": "Cría de dragón azul",
+        "descripcion": "[:  : Monstruo : 17 (armadura natural) : 52 : 3 (700 PX) : 30 pies 15 pies excavando 60 pies volando]",
+        "table": {
+            "Fue": "17 (+3)",
+            "Des": "10 (+0)",
+            "Con": "15 (+2)",
+            "Int": "12 (+1)",
+            "Sab": "11 (+0)",
+            "Car": "15 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/36-cria-de-dragon-azul"
+    },
+    {
+        "name": "Couatl",
+        "descripcion": "[El bondadoso couatl es una bella serpiente emplumada nativa de planos celestiales donde opera como guardián de los bondadosos y castigo de los malvados. Vuela con elegancia para llevar sus bendiciones a quienes se las ganen pues con su magia es capaz de sanar y proporcionar santuario a los más necesitados así como juicio justo y castigo a quien albergue oscuridad en su corazón.]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "20 (+5)",
+            "Con": "17 (+3)",
+            "Int": "18 (+4)",
+            "Sab": "20 (+5)",
+            "Car": "18 (+4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/19-couatl"
+    },
+    {
+        "name": "Cría de dragón de bronce",
+        "descripcion": "[:  : Monstruo : 17 (armadura natural) : 32 : 2 (450 PX) : 30 pies 60 pies volando 30 pies nadando]",
+        "table": {
+            "Fue": "17 (+3)",
+            "Des": "10 (+0)",
+            "Con": "15 (+2)",
+            "Int": "12 (+1)",
+            "Sab": "11 (+0)",
+            "Car": "15 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/44-cria-de-dragon-de-bronce"
+    },
+    {
+        "name": "Cría de dragón de oro",
+        "descripcion": "[:  : Monstruo : 17 (armadura natural) : 60 : 3 (700 PX) : 30 pies 60 pies volando 30 pies nadando]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "14 (+2)",
+            "Con": "17 (+3)",
+            "Int": "14 (+2)",
+            "Sab": "11 (+0)",
+            "Car": "16 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/51-cria-de-dragon-de-oro"
+    },
+    {
+        "name": "Cría de dragón negro",
+        "descripcion": "[:  : Monstruo : 17 (armadura natural) : 33 : 2 (450 PX) : 30 pies 60 pies volando 30 pies nadando]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "14 (+2)",
+            "Con": "13 (+1)",
+            "Int": "10 (+0)",
+            "Sab": "11 (+0)",
+            "Car": "13 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/63-cria-de-dragon-negro"
+    },
+    {
+        "name": "Comadreja gigante",
+        "descripcion": "[:  : Bestia : 13 : 9 : 1/8 (25 PX) : 40 pies]",
+        "table": {
+            "Fue": "11 (+0)",
+            "Des": "16 (+3)",
+            "Con": "10 (+0)",
+            "Int": "4 (-3)",
+            "Sab": "12 (+1)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/231-comadreja-gigante"
+    },
+    {
+        "name": "Comadreja",
+        "descripcion": "[:  : Bestia : 13 : 1 (1d4–1) : 0 (10 PX) : 30 pies]",
+        "table": {
+            "Fue": "3 (-4)",
+            "Des": "16 (+3)",
+            "Con": "8 (-1)",
+            "Int": "2 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "3 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/230-comadreja"
+    },
+    {
+        "name": "Cocodrilo gigante",
+        "descripcion": "[:  : Bestia : 14 (armadura natural) : 85 : 5 (1.800 PX) : 30 pies 50 pies nadando]",
+        "table": {
+            "Fue": "21 (+5)",
+            "Des": "9 (-1)",
+            "Con": "17 (+3)",
+            "Int": "2 (-4)",
+            "Sab": "10 (+0)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/229-cocodrilo-gigante"
+    },
+    {
+        "name": "Cocodrilo",
+        "descripcion": "[:  : Bestia : 12 (armadura natural) : 19 : 1/2 (100 PX) : 20 pies 30 pies nadando]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "10 (+0)",
+            "Con": "13 (+1)",
+            "Int": "2 (-4)",
+            "Sab": "10 (+0)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/228-cocodrilo"
+    },
+    {
+        "name": "Cocatriz",
+        "descripcion": "[Esta desagradable criatura se asemeja a una gallina enfermiza cuyo pico está lleno de dientes afilados. Presenta rasgos de reptil como un largo cuello de serpiente y parches de piel escamosa. La cocatriz pese a su pequeño tamaño presenta un gran peligro ya que suma una agresividad desaforada con la capacidad de transformar en piedra a quien logre morder.]",
+        "table": {
+            "Fue": "6 (-2)",
+            "Des": "12 (+1)",
+            "Con": "12 (+1)",
+            "Int": "2 (-4)",
+            "Sab": "13 (+1)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/18-cocatriz"
+    },
+    {
+        "name": "Diablillo",
+        "descripcion": "[Este pequeño ser dotado de minúsculas alas y cola de escorpión tiene un rostro irónico al menos cuando no permanece invisible o toma la forma de alguna alimaña inmunda como una rata un cuervo o una araña.]",
+        "table": {
+            "Fue": "6 (-2)",
+            "Des": "17 (+3)",
+            "Con": "13 (+1)",
+            "Int": "11 (+0)",
+            "Sab": "12 (+1)",
+            "Car": "14 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/22-diablillo"
+    },
+    {
+        "name": "Deva",
+        "descripcion": "[Los devas son humanoides angelicales de piel ligeramente azulada que están dotados de poderosas alas de cisne capaces de levantar del suelo sus apolíneos cuerpos. Aunque hermosos los mensajeros de los altos señores celestiales no dudan en adquirir formas mortales de humanoides o animales para cumplir la voluntad de sus amos. Combaten blandiendo pesadas mazas de luz solar aunque suelen detenerse para sanar mediante sus milagrosas artes a los aliados heridos trayendo de vuelta incluso a los muertos.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "18 (+4)",
+            "Con": "18 (+4)",
+            "Int": "17 (+3)",
+            "Sab": "20 (+5)",
+            "Car": "20 (+5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/21-deva"
+    },
+    {
+        "name": "Diablo astado",
+        "descripcion": "[Los dos enormes cuernos de este diablo de mirada lasciva se retuercen como los de un carnero al igual que las puntas de su cola y de la gran horca que porta en sus manos. Considerados la infantería alada del ejército de los diablos estos guerreros alados combaten tanto con sus horcas como con el fuego diabólico que dominan.]",
+        "table": {
+            "Fue": "22 (+6)",
+            "Des": "17 (+3)",
+            "Con": "21 (+5)",
+            "Int": "12 (+1)",
+            "Sab": "16 (+3)",
+            "Car": "17 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/23-diablo-astado"
+    },
+    {
+        "name": "Cuervo",
+        "descripcion": "[:  : Bestia : 12 : 1 (1d4–1) : 0 (10 PX) : 10 pies 50 pies volando]",
+        "table": {
+            "Fue": "2 (-4)",
+            "Des": "14 (+2)",
+            "Con": "8 (-1)",
+            "Int": "2 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/232-cuervo"
+    },
+    {
+        "name": "Cubo gelatinoso",
+        "descripcion": "[Este extraño monstruo es una masa gelatinosa transparente con forma de cubo gigante que recorre pasadizos y cavernas. En su interior se pueden encontrar los restos y tesoros de las últimas víctimas que ha digerido al alcance de quien se atreva a meter la mano dentro del voraz cubo gelatinoso.]",
+        "table": {
+            "Fue": "14 (+2)",
+            "Des": "3 (-4)",
+            "Con": "20 (+5)",
+            "Int": "1 (-5)",
+            "Sab": "6 (-2)",
+            "Car": "1 (-5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/20-cubo-gelatinoso"
+    },
+    {
+        "name": "Cría de dragón verde",
+        "descripcion": "[:  : Monstruo : 17 (armadura natural) : 38 : 2 (450 PX) : 30 pies 60 pies volando 30 pies nadando]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "12 (+1)",
+            "Con": "13 (+1)",
+            "Int": "14 (+2)",
+            "Sab": "11 (+0)",
+            "Car": "13 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/72-cria-de-dragon-verde"
+    },
+    {
+        "name": "Ciervo",
+        "descripcion": "[:  : Bestia : 13 : 4 : 0 (10 PX) : 50 pies]",
+        "table": {
+            "Fue": "11 (+0)",
+            "Des": "16 (+3)",
+            "Con": "11 (+0)",
+            "Int": "2 (-4)",
+            "Sab": "14 (+2)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/227-ciervo"
+    },
+    {
+        "name": "Cría de dragón rojo",
+        "descripcion": "[:  : Monstruo : 17 (armadura natural) : 75 : 4 (1.100 PX) : 30 pies 30 pies escalando 60 pies volando]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "10 (+0)",
+            "Con": "17 (+3)",
+            "Int": "12 (+1)",
+            "Sab": "11 (+0)",
+            "Car": "15 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/67-cria-de-dragon-rojo"
+    },
+    {
+        "name": "Ciempiés gigante",
+        "descripcion": "[:  : Bestia : 13 (armadura natural) : 4 : 1/4 (50 PX) : 30 pies 30 pies escalando]",
+        "table": {
+            "Fue": "5 (-3)",
+            "Des": "14 (+2)",
+            "Con": "12 (+1)",
+            "Int": "1 (-5)",
+            "Sab": "7 (-2)",
+            "Car": "3 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/226-ciempies-gigante"
+    },
+    {
+        "name": "Cieno gris",
+        "descripcion": "[El cieno gris es una masa viscosa de color gris que se desplaza lentamente por suelos paredes y techos de cuevas ruinas y alcantarillas buscando comida. Es capaz de mimetizarse con el entorno para realizar burdas emboscadas para desgracia de aquellos que se ponen al alcance de su toque ácido.]",
+        "table": {
+            "Fue": "12 (+1)",
+            "Des": "6 (-2)",
+            "Con": "16 (+3)",
+            "Int": "1 (-5)",
+            "Sab": "6 (-2)",
+            "Car": "2 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/17-cieno-gris"
+    },
+    {
+        "name": "Chacal",
+        "descripcion": "[:  : Bestia : 12 : 3 : 0 (10 PX) : 40 pies]",
+        "table": {
+            "Fue": "8 (-1)",
+            "Des": "15 (+2)",
+            "Con": "11 (+0)",
+            "Int": "3 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/225-chacal"
+    },
+    {
+        "name": "Draco",
+        "descripcion": "[Un primo lejano y primitivo de los dragones que carece tanto de inteligencia como de extremidades superiores hábiles. Depreda los cielos de todo el mundo usando su poderío físico y el veneno del aguijón de su cola. Más bestia que dragón el draco es extraordinariamente territorial aunque existe la posibilidad de domesticarlo.]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "10 (+0)",
+            "Con": "16 (+3)",
+            "Int": "5 (-3)",
+            "Sab": "12 (+1)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/32-draco"
+    },
+    {
+        "name": "Doppelgánger",
+        "descripcion": "[Este humanoide de aspecto gris y carente de rasgos a excepción de sus dos enormes ojos amarillos es un mentiroso consumado y un maestro de la discreción capaz incluso de cambiar de forma. El doppelgánger gusta de usurpar la vida de otros humanoides ya sea para sobrevivir llevar a cabo algún vil plan o sencillamente encontrar compañía. Para ello se sirve de su polimorfismo y de la capacidad de leer los pensamientos superficiales de la gente.]",
+        "table": {
+            "Fue": "11 (+0)",
+            "Des": "18 (+4)",
+            "Con": "14 (+2)",
+            "Int": "11 (+0)",
+            "Sab": "12 (+1)",
+            "Car": "14 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/31-doppelganger"
+    },
+    {
+        "name": "Dragón blanco adulto",
+        "descripcion": "[:  : Monstruo : 18 (armadura natural) : 200 : 13 (10.000 PX) : 40 pies 30 pies excavando 80 pies volando 40 pies nadando]",
+        "table": {
+            "Fue": "22 (+6)",
+            "Des": "10 (+0)",
+            "Con": "22 (+6)",
+            "Int": "8 (-1)",
+            "Sab": "12 (+1)",
+            "Car": "12 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/37-dragon-blanco-adulto"
+    },
+    {
+        "name": "Dragón blanco joven",
+        "descripcion": "[:  : Monstruo : 17 (armadura natural) : 133 : 6 (2.300 PX) : 40 pies 20 pies excavando 80 pies volando 40 pies nadando]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "10 (+0)",
+            "Con": "18 (+4)",
+            "Int": "6 (-2)",
+            "Sab": "11 (+0)",
+            "Car": "12 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/39-dragon-blanco-joven"
+    },
+    {
+        "name": "Dragón blanco antiguo",
+        "descripcion": "[:  : Monstruo : 20 (armadura natural) : 333 : 20 (25.000 PX) : 40 pies 40 pies excavando 80 pies volando 40 pies nadando]",
+        "table": {
+            "Fue": "26 (+8)",
+            "Des": "10 (+0)",
+            "Con": "26 (+8)",
+            "Int": "10 (+0)",
+            "Sab": "13 (+1)",
+            "Car": "14 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/38-dragon-blanco-antiguo"
+    },
+    {
+        "name": "Dragón azul joven",
+        "descripcion": "[:  : Monstruo : 18 (armadura natural) : 152 : 9 (5.000 PX) : 40 pies 20 pies excavando 80 pies volando]",
+        "table": {
+            "Fue": "21 (+5)",
+            "Des": "10 (+0)",
+            "Con": "19 (+4)",
+            "Int": "14 (+2)",
+            "Sab": "13 (+1)",
+            "Car": "17 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/35-dragon-azul-joven"
+    },
+    {
+        "name": "Dragón azul adulto",
+        "descripcion": "[:  : Monstruo : 19 (armadura natural) : 225 : 16 (15.000 PX) : 40 pies 30 pies excavando 80 pies volando]",
+        "table": {
+            "Fue": "25 (+7)",
+            "Des": "10 (+0)",
+            "Con": "23 (+6)",
+            "Int": "16 (+3)",
+            "Sab": "15 (+2)",
+            "Car": "19 (+4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/33-dragon-azul-adulto"
+    },
+    {
+        "name": "Dragón azul antiguo",
+        "descripcion": "[:  : Monstruo : 22 (armadura natural) : 481 : 23 (50.000 PX) : 40 pies 40 pies excavando 80 pies volando]",
+        "table": {
+            "Fue": "29 (+9)",
+            "Des": "10 (+0)",
+            "Con": "27 (+8)",
+            "Int": "18 (+4)",
+            "Sab": "17 (+3)",
+            "Car": "21 (+5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/34-dragon-azul-antiguo"
+    },
+    {
+        "name": "Djinni",
+        "descripcion": "[Un atractivo humanoide de piel azulada y aspecto vaporoso que desde un mágico recipiente aparece envuelto en perfumes y sedas. Incluso su cimitarra es una pieza de lujo. Se muestra agradecido por servir con su magia a amos ingeniosos y divertidos aunque su eterna verborrea denota que anhela la libertad.]",
+        "table": {
+            "Fue": "21 (+5)",
+            "Des": "15 (+2)",
+            "Con": "22 (+6)",
+            "Int": "15 (+2)",
+            "Sab": "16 (+3)",
+            "Car": "20 (+5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/30-djinni"
+    },
+    {
+        "name": "Diablo óseo",
+        "descripcion": "[Los crueles inquisidores de los diablos son un híbrido abyecto entre un esqueleto recubierto de una fina piel blancuzca y un escorpión alado. Se mueven dando grandes saltos impulsados con sus alas para caer después sobre sus víctimas con una sonrisa en sus esqueléticas caras las garras relucientes y el aguijón lleno de veneno.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "16 (+3)",
+            "Con": "18 (+4)",
+            "Int": "13 (+1)",
+            "Sab": "14 (+2)",
+            "Car": "16 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/29-diablo-oseo"
+    },
+    {
+        "name": "Diablo gélido",
+        "descripcion": "[Detrás de todo ejército diabólico va un gigantesco insectoide recubierto de escarcha que lanza las órdenes pertinentes a sus subordinados al tiempo que aprovecha su capacidad de generar muros de hielo para obtener ventaja para sus tropas. Aunque cumple un papel de estratega este diablo es un guerrero extraordinario gracias a sus garras mandíbulas y cola.]",
+        "table": {
+            "Fue": "21 (+5)",
+            "Des": "14 (+2)",
+            "Con": "18 (+4)",
+            "Int": "18 (+4)",
+            "Sab": "15 (+2)",
+            "Car": "18 (+4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/27-diablo-gelido"
+    },
+    {
+        "name": "Diablo punzante",
+        "descripcion": "[Este diablo de aspecto ladino tiene el cuerpo de la cabeza a la punta de su larga cola recubierto de espinas púas y cuchillas. Sirven como espías mensajeros e incluso asesinos a los grandes diablos valiéndose del fuego que expulsan por la boca para segar vidas.]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "17 (+3)",
+            "Con": "18 (+4)",
+            "Int": "12 (+1)",
+            "Sab": "14 (+2)",
+            "Car": "14 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/28-diablo-punzante"
+    },
+    {
+        "name": "Diablo de la sima",
+        "descripcion": "[El mayor y más poderoso de todos los diablos es el diablo de la sima una criatura enorme de cuerpo escamoso que parece estar hecha con fuego hierro negro y oscuridad. Sus alas parecen capaces de ocultar la luz del sol su maza bien podría quebrar montañas y su enorme boca llena de colmillos venenosos devorar a un hombre de una sola vez. A su alrededor se agitan runas de poder infernal y una larga cola de reptil.]",
+        "table": {
+            "Fue": "26 (+8)",
+            "Des": "14 (+2)",
+            "Con": "24 (+7)",
+            "Int": "22 (+6)",
+            "Sab": "18 (+4)",
+            "Car": "24 (+7)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/26-diablo-de-la-sima"
+    },
+    {
+        "name": "Dragón de oropel antiguo",
+        "descripcion": "[:  : Monstruo : 20 (armadura natural) : 297 : 20 (25.000 PX) : 40 pies 40 pies excavando 80 pies volando]",
+        "table": {
+            "Fue": "27 (+8)",
+            "Des": "10 (+0)",
+            "Con": "25 (+7)",
+            "Int": "16 (+3)",
+            "Sab": "15 (+2)",
+            "Car": "19 (+4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/53-dragon-de-oropel-antiguo"
+    },
+    {
+        "name": "Diablo de la cadena",
+        "descripcion": "[Dos largas cadenas envuelven como una mortaja el cuerpo rojizo del diablo de la cadena quien las usa para eviscerar a sus enemigos con sus hojas afiladas y crueles ganchos de carnicero. Los torturadores de los planos diabólicos viven para inflingir daño físico… o mental pues pueden adoptar la forma de un ser querido o un enemigo por unos instantes para llenar los corazones de sus enemigos con congoja y miseria.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "15 (+2)",
+            "Con": "18 (+4)",
+            "Int": "11 (+0)",
+            "Sab": "12 (+1)",
+            "Car": "14 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/25-diablo-de-la-cadena"
+    },
+    {
+        "name": "Diablo barbado",
+        "descripcion": "[Los guerreros de élite entre los diablos son escamosos y arrogantes combatientes que blanden gigantescas gujas forjadas en hierro negro. Las barbas que les dan nombre se retuercen con vida propia como si fueran serpientes y envenenan a quienes son tan necios como para acercarse.]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "15 (+2)",
+            "Con": "15 (+2)",
+            "Int": "9 (-1)",
+            "Sab": "11 (+0)",
+            "Car": "11 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/24-diablo-barbado"
+    },
+    {
+        "name": "Dragón de oropel adulto",
+        "descripcion": "[:  : Monstruo : 18 (armadura natural) : 172 : 13 (10.000 PX) : 40 pies 30 pies excavando 80 pies volando]",
+        "table": {
+            "Fue": "23 (+6)",
+            "Des": "10 (+0)",
+            "Con": "21 (+5)",
+            "Int": "14 (+2)",
+            "Sab": "13 (+1)",
+            "Car": "17 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/52-dragon-de-oropel-adulto"
+    },
+    {
+        "name": "Dragón de oro joven",
+        "descripcion": "[:  : Monstruo : 18 (armadura natural) : 178 : 10 (5.900 PX) : 40 pies 80 pies volando 40 pies nadando]",
+        "table": {
+            "Fue": "23 (+6)",
+            "Des": "14 (+2)",
+            "Con": "21 (+5)",
+            "Int": "16 (+3)",
+            "Sab": "13 (+1)",
+            "Car": "20 (+5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/50-dragon-de-oro-joven"
+    },
+    {
+        "name": "Dragón de oro antiguo",
+        "descripcion": "[:  : Monstruo : 22 (armadura natural) : 546 : 24 (62.000 PX) : 40 pies 80 pies volando 80 pies nadando]",
+        "table": {
+            "Fue": "30 (+10)",
+            "Des": "14 (+2)",
+            "Con": "29 (+9)",
+            "Int": "18 (+4)",
+            "Sab": "17 (+3)",
+            "Car": "28 (+9)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/49-dragon-de-oro-antiguo"
+    },
+    {
+        "name": "Dragón de oro adulto",
+        "descripcion": "[:  : Monstruo : 19 (armadura natural) : 256 : 17 (18.000 PX) : 40 pies 80 pies volando 40 pies nadando]",
+        "table": {
+            "Fue": "27 (+8)",
+            "Des": "14 (+2)",
+            "Con": "25 (+7)",
+            "Int": "16 (+3)",
+            "Sab": "15 (+2)",
+            "Car": "24 (+7)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/48-dragon-de-oro-adulto"
+    },
+    {
+        "name": "Dragón de cobre antiguo",
+        "descripcion": "[:  : Monstruo : 21 (armadura natural) : 350 : 21 (33.000 PX) : 40 pies 40 pies escalando 80 pies volando]",
+        "table": {
+            "Fue": "27 (+8)",
+            "Des": "12 (+1)",
+            "Con": "25 (+7)",
+            "Int": "20 (+5)",
+            "Sab": "17 (+3)",
+            "Car": "19 (+4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/46-dragon-de-cobre-antiguo"
+    },
+    {
+        "name": "Dragón de cobre adulto",
+        "descripcion": "[:  : Monstruo : 18 (armadura natural) : 184 : 14 (11.500 PX) : 40 pies 40 pies escalando 80 pies volando]",
+        "table": {
+            "Fue": "23 (+6)",
+            "Des": "12 (+1)",
+            "Con": "21 (+5)",
+            "Int": "18 (+4)",
+            "Sab": "15 (+2)",
+            "Car": "17 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/45-dragon-de-cobre-adulto"
+    },
+    {
+        "name": "Dragón de bronce joven",
+        "descripcion": "[:  : Monstruo : 17 (armadura natural) : 119 : 7 (2.900 PX) : 40 pies 40 pies escalando 80 pies volando]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "12 (+1)",
+            "Con": "17 (+3)",
+            "Int": "16 (+3)",
+            "Sab": "13 (+1)",
+            "Car": "15 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/43-dragon-de-bronce-joven"
+    },
+    {
+        "name": "Dragón de bronce adulto",
+        "descripcion": "[:  : Monstruo : 19 (armadura natural) : 212 : 15 (13.000 PX) : 40 pies 80 pies volando 40 pies nadando]",
+        "table": {
+            "Fue": "25 (+7)",
+            "Des": "10 (+0)",
+            "Con": "23 (+6)",
+            "Int": "16 (+3)",
+            "Sab": "15 (+2)",
+            "Car": "19 (+4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/41-dragon-de-bronce-adulto"
+    },
+    {
+        "name": "Dragón de bronce antiguo",
+        "descripcion": "[:  : Monstruo : 22 (armadura natural) : 444 : 22 (41.000 PX) : 40 pies 80 pies volando 40 pies nadando]",
+        "table": {
+            "Fue": "29 (+9)",
+            "Des": "10 (+0)",
+            "Con": "27 (+8)",
+            "Int": "18 (+4)",
+            "Sab": "17 (+3)",
+            "Car": "21 (+5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/42-dragon-de-bronce-antiguo"
+    },
+    {
+        "name": "Dragón tortuga",
+        "descripcion": "[Este dragón adaptado a la vida marina está provisto de un caparazón con hileras de placas óseas en forma de púa dos pares de aletas provistas de garras una poderosa cola y unas fauces capaces de quebrar el casco de un barco. El dragón tortuga en ocasiones es confundido con una ballena debido al vapor que expulsa.]",
+        "table": {
+            "Fue": "25 (+7)",
+            "Des": "10 (+0)",
+            "Con": "20 (+5)",
+            "Int": "10 (+0)",
+            "Sab": "12 (+1)",
+            "Car": "12 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/68-dragon-tortuga"
+    },
+    {
+        "name": "Dragón rojo joven",
+        "descripcion": "[:  : Monstruo : 18 (armadura natural) : 178 : 10 (5.900 PX) : 40 pies 40 pies escalando 80 pies volando]",
+        "table": {
+            "Fue": "23 (+6)",
+            "Des": "10 (+0)",
+            "Con": "21 (+5)",
+            "Int": "14 (+2)",
+            "Sab": "11 (+0)",
+            "Car": "19 (+4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/66-dragon-rojo-joven"
+    },
+    {
+        "name": "Dragón rojo antiguo",
+        "descripcion": "[:  : Monstruo : 22 (armadura natural) : 546 : 24 (62.000 PX) : 40 pies 40 pies escalando 80 pies volando]",
+        "table": {
+            "Fue": "30 (+10)",
+            "Des": "10 (+0)",
+            "Con": "29 (+9)",
+            "Int": "18 (+4)",
+            "Sab": "15 (+2)",
+            "Car": "23 (+6)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/65-dragon-rojo-antiguo"
+    },
+    {
+        "name": "Dragón rojo adulto",
+        "descripcion": "[:  : Monstruo : 19 (armadura natural) : 256 : 17 (18.000 PX) : 40 pies 40 pies escalando 80 pies volando]",
+        "table": {
+            "Fue": "27 (+8)",
+            "Des": "10 (+0)",
+            "Con": "25 (+7)",
+            "Int": "16 (+3)",
+            "Sab": "13 (+1)",
+            "Car": "21 (+5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/64-dragon-rojo-adulto"
+    },
+    {
+        "name": "Dragón verde adulto",
+        "descripcion": "[:  : Monstruo : 19 (armadura natural) : 207 : 15 (13.000 PX) : 40 pies 80 pies volando 40 pies nadando]",
+        "table": {
+            "Fue": "23 (+6)",
+            "Des": "12 (+1)",
+            "Con": "21 (+5)",
+            "Int": "18 (+4)",
+            "Sab": "15 (+2)",
+            "Car": "17 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/69-dragon-verde-adulto"
+    },
+    {
+        "name": "Draña",
+        "descripcion": "[Hibridación impía entre un drow y una gigantesca araña que solo vive para servir a la oscura fuerza que obró su metamorfosis. Esta enloquecida amenaza sigue siendo una competente luchadora y lanzadora de conjuros; es más estas capacidades se han visto reforzadas por el cambio. Por fortuna la luz del sol parece ahuyentarla.]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "16 (+3)",
+            "Con": "18 (+4)",
+            "Int": "13 (+1)",
+            "Sab": "14 (+2)",
+            "Car": "12 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/73-drana"
+    },
+    {
+        "name": "Dragón verde antiguo",
+        "descripcion": "[:  : Monstruo : 21 (armadura natural) : 385 : 22 (41.000 PX) : 40 pies 80 pies volando 40 pies nadando]",
+        "table": {
+            "Fue": "27 (+8)",
+            "Des": "12 (+1)",
+            "Con": "25 (+7)",
+            "Int": "20 (+5)",
+            "Sab": "17 (+3)",
+            "Car": "19 (+4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/70-dragon-verde-antiguo"
+    },
+    {
+        "name": "Dragón verde joven",
+        "descripcion": "[:  : Monstruo : 18 (armadura natural) : 136 : 8 (3.900 PX) : 40 pies 80 pies volando 40 pies nadando]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "12 (+1)",
+            "Con": "17 (+3)",
+            "Int": "16 (+3)",
+            "Sab": "13 (+1)",
+            "Car": "15 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/71-dragon-verde-joven"
+    },
+    {
+        "name": "Dragón negro joven",
+        "descripcion": "[:  : Monstruo : 18 (armadura natural) : 127 : 7 (2.900 PX) : 40 pies 80 pies volando 40 pies nadando]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "14 (+2)",
+            "Con": "17 (+3)",
+            "Int": "12 (+1)",
+            "Sab": "11 (+0)",
+            "Car": "15 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/62-dragon-negro-joven"
+    },
+    {
+        "name": "Dragón negro adulto",
+        "descripcion": "[:  : Monstruo : 19 (armadura natural) : 195 : 14 (11.500 PX) : 40 pies 80 pies volando 40 pies nadando]",
+        "table": {
+            "Fue": "23 (+6)",
+            "Des": "14 (+2)",
+            "Con": "21 (+5)",
+            "Int": "14 (+2)",
+            "Sab": "13 (+1)",
+            "Car": "17 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/60-dragon-negro-adulto"
+    },
+    {
+        "name": "Elemental de tierra",
+        "descripcion": "[Dos poderosas piernas levantan una gran roca que provocan pequeños terremotos cuando camina. Aunque emerge de la tierra no deja hueco alguno al abandonarla como si esta rellenase sola el espacio liberado. Una cara inhumana grita desde su pecho mientras que sus enormes brazos resquebrajan los muros que lo rodean como si estuviesen hechos de papel.]",
+        "table": {
+            "Fue": "20 (+5)",
+            "Des": "8 (-1)",
+            "Con": "20 (+5)",
+            "Int": "5 (-3)",
+            "Sab": "10 (+0)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/81-elemental-de-tierra"
+    },
+    {
+        "name": "Elemental de fuego",
+        "descripcion": "[Un enorme chorro de fuego emerge de ninguna parte iluminando la negrura de la noche y abrasando lo que toca transformando la arena en cristal con cada paso que da y fundiendo la roca solo por pasar cerca. En mitad de ese infierno una faz alienígena parece satisfecha con tanta destrucción. Solo una solitaria gota de rocío cambia esa satisfacción por dolor.]",
+        "table": {
+            "Fue": "10 (+0)",
+            "Des": "17 (+3)",
+            "Con": "16 (+3)",
+            "Int": "6 (-2)",
+            "Sab": "10 (+0)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/80-elemental-de-fuego"
+    },
+    {
+        "name": "Elemental de aire",
+        "descripcion": "[Este elemental con forma de tornado gira con fuerza inusitada sobre el suelo arrastrando roca tierra y agua mientras aúlla silba y ulula. Con esfuerzo se puede percibir un rostro furibundo que mira con ojos oscuros el mundo que lo rodea mientras torbellinos que le hacen la vez de brazos golpean todo lo que tiene a su alcance.]",
+        "table": {
+            "Fue": "14 (+2)",
+            "Des": "20 (+5)",
+            "Con": "14 (+2)",
+            "Int": "6 (-2)",
+            "Sab": "10 (+0)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/79-elemental-de-aire"
+    },
+    {
+        "name": "Elemental de agua",
+        "descripcion": "[Una ola viviente atrapa en su cuerpo a sus enemigos como náufragos en la tempestad. El elemental brama como el oleaje que rompe contra la costa rugido que se transforma en un grito de dolor cuando un conjuro transforma su agua en hielo.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "14 (+2)",
+            "Con": "18 (+4)",
+            "Int": "5 (-3)",
+            "Sab": "10 (+0)",
+            "Car": "8 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/78-elemental-de-agua"
+    },
+    {
+        "name": "Dragón negro antiguo",
+        "descripcion": "[:  : Monstruo : 22 (armadura natural) : 367 : 21 (33.000 PX) : 40 pies 80 pies volando 40 pies nadando]",
+        "table": {
+            "Fue": "27 (+8)",
+            "Des": "14 (+2)",
+            "Con": "25 (+7)",
+            "Int": "16 (+3)",
+            "Sab": "15 (+2)",
+            "Car": "19 (+4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/61-dragon-negro-antiguo"
+    },
+    {
+        "name": "Elefante",
+        "descripcion": "[:  : Bestia : 12 (armadura natural) : 76 : 4 (1.100 PX) : 40 pies]",
+        "table": {
+            "Fue": "22 (+6)",
+            "Des": "9 (-1)",
+            "Con": "17 (+3)",
+            "Int": "3 (-4)",
+            "Sab": "11 (+0)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/233-elefante"
+    },
+    {
+        "name": "Dragón de plata joven",
+        "descripcion": "[:  : Monstruo : 18 (armadura natural) : 168 : 9 (5.000 PX) : 40 pies 80 pies volando]",
+        "table": {
+            "Fue": "23 (+6)",
+            "Des": "10 (+0)",
+            "Con": "21 (+5)",
+            "Int": "14 (+2)",
+            "Sab": "11 (+0)",
+            "Car": "19 (+4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/58-dragon-de-plata-joven"
+    },
+    {
+        "name": "Duérgar",
+        "descripcion": "[El duérgar es un enano con el pelo blanco y la piel negruzca con una gran inclinación hacia el mal y la tiranía que por fortuna solo se encuentra en las simas y cuevas más profundas. Los duérgar han nacido en la oscuridad y han pactado con oscuros señores por lo que son capaces de obrar extraños cambios mágicos tales como cambiar de tamaño o volverse invisibles talentos muy útiles para hacerse con esclavos y sacrificios para sus siniestros amos.]",
+        "table": {
+            "Fue": "14 (+2)",
+            "Des": "11 (+0)",
+            "Con": "14 (+2)",
+            "Int": "11 (+0)",
+            "Sab": "10 (+0)",
+            "Car": "9 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/77-duergar"
+    },
+    {
+        "name": "Duende",
+        "descripcion": "[Esta bondadosa y diminuta raza de fatas aladas parecen versiones ideales de jóvenes elfos dotados con alas de mariposa si bien su piel es verde. Los duendes son juguetones y traviesos mas carecen de malicia por lo que se dedican a realizar diabluras inocentes a sus amigos. Es difícil engañar a un duende ya que son maestros de la invisibilidad y pueden conocer el corazón de aquellos a los que tocan.]",
+        "table": {
+            "Fue": "3 (-4)",
+            "Des": "18 (+4)",
+            "Con": "10 (+0)",
+            "Int": "14 (+2)",
+            "Sab": "13 (+1)",
+            "Car": "11 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/76-duende"
+    },
+    {
+        "name": "Druida",
+        "descripcion": "[Los druidas viven en bosques y en otros lugares de la naturaleza apartados donde protegen el mundo natural de los monstruos y de la intrusión de la civilización. Algunos son chamanes tribales que curan a los enfermos rezan a los espíritus de los animales y ofrecen guía espiritual.]",
+        "table": {
+            "Fue": "10 (+0)",
+            "Des": "12 (+1)",
+            "Con": "13 (+1)",
+            "Int": "12 (+1)",
+            "Sab": "15 (+2)",
+            "Car": "11 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/303-druida"
+    },
+    {
+        "name": "Drow",
+        "descripcion": "[Estos elfos antaño vivieron bajo el sol pero tras un crimen blasfemo fueron exiliados bajo tierra donde su piel se tornó negra como sus almas. Los crueles drows viven en grandes ciudades dominadas por castas donde se libran guerras tan terribles como las que lanzan contra sus vecinos. No es de extrañar que los drows se hayan vuelto tan buenos guerreros y magos.]",
+        "table": {
+            "Fue": "10 (+0)",
+            "Des": "14 (+2)",
+            "Con": "10 (+0)",
+            "Int": "11 (+0)",
+            "Sab": "11 (+0)",
+            "Car": "12 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/74-drow"
+    },
+    {
+        "name": "Dríada",
+        "descripcion": "[Una hermosa raza de fatas femeninas vinculadas al mundo natural. Las dríadas viven para proteger sus boscosos dominios y espían a los extraños ocultas entre los árboles. Son veleidosas y poseen numerosos dones como aquel con el que embelesan a los incautos para que hagan su voluntad. Este encanto es peligroso pero caer ante él es un riesgo a correr si se quiere conocer los secretos que albergan los bosques de las fatas.]",
+        "table": {
+            "Fue": "10 (+0)",
+            "Des": "12 (+1)",
+            "Con": "11 (+0)",
+            "Int": "14 (+2)",
+            "Sab": "15 (+2)",
+            "Car": "18 (+4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/75-driada"
+    },
+    {
+        "name": "Dragón de plata antiguo",
+        "descripcion": "[:  : Monstruo : 22 (armadura natural) : 487 : 23 (50.000 PX) : 40 pies 80 pies volando]",
+        "table": {
+            "Fue": "30 (+10)",
+            "Des": "10 (+0)",
+            "Con": "29 (+9)",
+            "Int": "18 (+4)",
+            "Sab": "15 (+2)",
+            "Car": "23 (+6)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/57-dragon-de-plata-antiguo"
+    },
+    {
+        "name": "Dragón de oropel joven",
+        "descripcion": "[:  : Monstruo : 17 (armadura natural) : 110 : 6 (2.300 PX) : 40 pies 20 pies excavando 80 pies volando]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "10 (+0)",
+            "Con": "17 (+3)",
+            "Int": "12 (+1)",
+            "Sab": "11 (+0)",
+            "Car": "15 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/54-dragon-de-oropel-joven"
+    },
+    {
+        "name": "Dragón de plata adulto",
+        "descripcion": "[:  : Monstruo : 19 (armadura natural) : 243 : 16 (15.000 PX) : 40 pies 80 pies volando]",
+        "table": {
+            "Fue": "27 (+8)",
+            "Des": "10 (+0)",
+            "Con": "25 (+7)",
+            "Int": "16 (+3)",
+            "Sab": "13 (+1)",
+            "Car": "21 (+5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/56-dragon-de-plata-adulto"
+    },
+    {
+        "name": "Estirge",
+        "descripcion": "[Una inmunda alimaña híbrido entre murciélago y mosquito que se alimenta de sangre mediante su afilada trompa. Se desplaza en enormes enjambres causando gran mortandad tanto en el ganado como en las poblaciones desprotegidas.]",
+        "table": {
+            "Fue": "4 (-3)",
+            "Des": "16 (+3)",
+            "Con": "11 (+0)",
+            "Int": "2 (-4)",
+            "Sab": "8 (-1)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/90-estirge"
+    },
+    {
+        "name": "Explorador",
+        "descripcion": "[Los exploradores son cazadores y rastreadores habilidosos que ofrecen sus servicios por un precio. La mayoría cazan por diversión pero unos cuantos trabajan como cazarrecompensas sirven como guías u ofrecen reconocimiento militar.]",
+        "table": {
+            "Fue": "11 (+0)",
+            "Des": "14 (+2)",
+            "Con": "12 (+1)",
+            "Int": "11 (+0)",
+            "Sab": "13 (+1)",
+            "Car": "11 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/305-explorador"
+    },
+    {
+        "name": "Ettin",
+        "descripcion": "[Un gigante dotado de dos cabezotas de orco que discuten entre sí cuando no están luchando con alguna presa o vigilando el terreno mientras la otra duerme. Esta solitaria monstruosidad es despreciada por otros gigantes debido a su parentesco con los orcos y temida por sus primos lejanos dado su poderío físico.]",
+        "table": {
+            "Fue": "21 (+5)",
+            "Des": "8 (-1)",
+            "Con": "17 (+3)",
+            "Int": "6 (-2)",
+            "Sab": "10 (+0)",
+            "Car": "8 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/91-ettin"
+    },
+    {
+        "name": "Esqueleto de minotauro",
+        "descripcion": "[Un minotauro muerto hace mucho tiempo y del que solo queda su esqueleto se levanta entre polvo y ceniza portando en sus manos una enorme hacha que conserva su filo. Sus enormes cuernos brillan como la más afilada y reciente lanza cuando carga hacia el enemigo.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "11 (+0)",
+            "Con": "15 (+2)",
+            "Int": "6 (-2)",
+            "Sab": "8 (-1)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/89-esqueleto-de-minotauro"
+    },
+    {
+        "name": "Esqueleto de caballo de guerra",
+        "descripcion": "[Un caballo óseo trota con brío como si la falta de músculos y vida hubiese sido compensada con la más negra energía nigromántica.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "12 (+1)",
+            "Con": "15 (+2)",
+            "Int": "2 (-4)",
+            "Sab": "8 (-1)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/88-esqueleto-de-caballo-de-guerra"
+    },
+    {
+        "name": "Esqueleto",
+        "descripcion": "[El roñoso esqueleto de un guerrero de antaño que abandona su tumba animado por la fuerza de la nigromancia blandiendo las armas que usara en vida y vistiendo una degradada armadura. Ataca sin miedo abriendo su boca para elevar un mudo grito de guerra.]",
+        "table": {
+            "Fue": "10 (+0)",
+            "Des": "14 (+2)",
+            "Con": "15 (+2)",
+            "Int": "6 (-2)",
+            "Sab": "8 (-1)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/87-esqueleto"
+    },
+    {
+        "name": "Espía",
+        "descripcion": "[Los gobernantes nobles mercaderes jefes de gremios y otros individuos ricos utilizan espías para coger la delantera en un mundo de política despiadada. Los espías están entrenados para obtener información en secreto. Un espía leal preferiría morir que divulgar información que podría comprometer a sus empleadores o a ellos mismos.]",
+        "table": {
+            "Fue": "10 (+0)",
+            "Des": "15 (+2)",
+            "Con": "10 (+0)",
+            "Int": "12 (+1)",
+            "Sab": "14 (+2)",
+            "Car": "16 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/304-espia"
+    },
+    {
+        "name": "Fanático de una secta",
+        "descripcion": "[Los fanáticos suelen formar parte de la dirección de una secta y utilizan su carisma y sus dogmas para influenciar y aprovecharse de los de voluntad débil. La mayoría están interesados en el poder personal por encima de todo lo demás.]",
+        "table": {
+            "Fue": "11 (+0)",
+            "Des": "14 (+2)",
+            "Con": "12 (+1)",
+            "Int": "10 (+0)",
+            "Sab": "13 (+1)",
+            "Car": "14 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/306-fanatico-de-una-secta"
+    },
+    {
+        "name": "Espectro",
+        "descripcion": "[La figura de un furioso humanoide flota en el campo drenando a su paso la vida de las flores y alimañas que se le acercan. Más que lástima y compasión esta aparición provoca repulsa ante la evidente maldad que exuda.]",
+        "table": {
+            "Fue": "1 (-5)",
+            "Des": "14 (+2)",
+            "Con": "11 (+0)",
+            "Int": "10 (+0)",
+            "Sab": "10 (+0)",
+            "Car": "11 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/86-espectro"
+    },
+    {
+        "name": "Espada voladora",
+        "descripcion": "[Una larga espada que flota en el aire y que ataca con la habilidad de un espadachín a quienes osan amenazar a su amo.]",
+        "table": {
+            "Fue": "12 (+1)",
+            "Des": "15 (+2)",
+            "Con": "11 (+0)",
+            "Int": "1 (-5)",
+            "Sab": "5 (-3)",
+            "Car": "1 (-5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/85-espada-voladora"
+    },
+    {
+        "name": "Escorpión gigante",
+        "descripcion": "[:  : Bestia : 15 (armadura natural) : 52 : 3 (700 PX) : 40 pies]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "13 (+1)",
+            "Con": "15 (+2)",
+            "Int": "1 (-5)",
+            "Sab": "9 (-1)",
+            "Car": "3 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/242-escorpion-gigante"
+    },
+    {
+        "name": "Escorpión",
+        "descripcion": "[:  : Bestia : 11 (armadura natural) : 1 (1d4–1) : 0 (10 PX) : 10 pies]",
+        "table": {
+            "Fue": "2 (-4)",
+            "Des": "11 (+0)",
+            "Con": "8 (-1)",
+            "Int": "1 (-5)",
+            "Sab": "8 (-1)",
+            "Car": "2 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/241-escorpion"
+    },
+    {
+        "name": "Fuego fatuo",
+        "descripcion": "[Muertos vivientes con aspecto de esferas de luz. Consumen la vida del entorno que los rodea y drenan la fuerza vital de los incautos que atraen con sus juegos lumínicos embaucadores susurros y demás engaños.]",
+        "table": {
+            "Fue": "1 (-5)",
+            "Des": "28 (+9)",
+            "Con": "10 (+0)",
+            "Int": "13 (+1)",
+            "Sab": "14 (+2)",
+            "Car": "11 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/93-fuego-fatuo"
+    },
+    {
+        "name": "Fantasma",
+        "descripcion": "[Un alma en pena que se encuentra ligada a un lugar objeto o criatura que tuvo significado cuando aún respiraba. El fantasma se aparece como un espectral reflejo de su apariencia en vida suplicando ayuda para ir al otro lado aunque los más maliciosos prefieren poseer a los vivos para otros fines…]",
+        "table": {
+            "Fue": "7 (-2)",
+            "Des": "13 (+1)",
+            "Con": "10 (+0)",
+            "Int": "10 (+0)",
+            "Sab": "12 (+1)",
+            "Car": "17 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/92-fantasma"
+    },
+    {
+        "name": "Gárgola",
+        "descripcion": "[Rocosas aberraciones aladas famosas tanto por su aspecto monstruoso como por su maldad. Es frecuente encontrarlas al servicio de las fuerzas del mal pues gracias a su mimetismo natural y brutales garras son grandes guardianes.]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "11 (+0)",
+            "Con": "16 (+3)",
+            "Int": "6 (-2)",
+            "Sab": "11 (+0)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/113-gargola"
+    },
+    {
+        "name": "Escarabajo de fuego gigante",
+        "descripcion": "[El escarabajo de fuego gigante es una criatura nocturna que recibe su nombre debido a un par de glándulas brillantes que emiten luz. Los mineros y los aventureros aprecian estas criaturas ya que las glándulas de un escarabajo de fuego gigante siguen emitiendo luz durante días después de su muerte. Los escarabajos de fuego gigantes se suelen encontrar bajo tierra y en los bosques oscuros.]",
+        "table": {
+            "Fue": "8 (-1)",
+            "Des": "10 (+0)",
+            "Con": "12 (+1)",
+            "Int": "1 (-5)",
+            "Sab": "7 (-2)",
+            "Car": "3 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/240-escarabajo-de-fuego-gigante"
+    },
+    {
+        "name": "Erinia",
+        "descripcion": "[Esta diablesa con alas negras puede hacer creer a los mortales que es un ángel gracias a su belleza y gracia pero la mezquindad y ansia de sangre que hay su rostro no tarda en borrar esa falsa ilusión. A la erinia le gusta hacer llover flechas sobre sus presas para luego descender espada en mano y cortar vidas como el granjero siega el trigo: con una enorme sonrisa en la cara.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "16 (+3)",
+            "Con": "18 (+4)",
+            "Int": "14 (+2)",
+            "Sab": "14 (+2)",
+            "Car": "18 (+4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/84-erinia"
+    },
+    {
+        "name": "Ent",
+        "descripcion": "[El gigantesco árbol comienza a moverse rompiendo las rocas bajo sus poderosas manos al mismo tiempo que de su boca emerge una voz profunda y amigable que anima a los suyos a unírsele en su caminar. Como si respondiesen a la llamada varios cedros se desplazan hasta ponerse a su par haciendo temblar la tierra.]",
+        "table": {
+            "Fue": "23 (+6)",
+            "Des": "8 (-1)",
+            "Con": "21 (+5)",
+            "Int": "12 (+1)",
+            "Sab": "16 (+3)",
+            "Car": "12 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/83-ent"
+    },
+    {
+        "name": "Enjambre de serpientes venenosas",
+        "descripcion": "[:  : Bestia : 14 : 36 : 2 (450 PX) : 30 pies 30 pies nadando]",
+        "table": {
+            "Fue": "8 (-1)",
+            "Des": "18 (+4)",
+            "Con": "11 (+0)",
+            "Int": "1 (-5)",
+            "Sab": "10 (+0)",
+            "Car": "3 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/239-enjambre-de-serpientes-venenosas"
+    },
+    {
+        "name": "Enjambre de ratas",
+        "descripcion": "[:  : Bestia : 10 : 24 (7d8–7) : 1/4 (50 PX) : 30 pies]",
+        "table": {
+            "Fue": "9 (-1)",
+            "Des": "11 (+0)",
+            "Con": "9 (-1)",
+            "Int": "2 (-4)",
+            "Sab": "10 (+0)",
+            "Car": "3 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/238-enjambre-de-ratas"
+    },
+    {
+        "name": "Enjambre de pirañas",
+        "descripcion": "[:  : Bestia : 13 : 28 (8d8–8) : 1 (200 PX) : 0 pies 40 pies nadando]",
+        "table": {
+            "Fue": "13 (+1)",
+            "Des": "16 (+3)",
+            "Con": "9 (-1)",
+            "Int": "1 (-5)",
+            "Sab": "7 (-2)",
+            "Car": "2 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/237-enjambre-de-piranas"
+    },
+    {
+        "name": "Enjambre de murciélagos",
+        "descripcion": "[:  : Bestia : 12 : 22 : 1/4 (50 PX) : 0 pies 30 pies volando]",
+        "table": {
+            "Fue": "5 (-3)",
+            "Des": "15 (+2)",
+            "Con": "10 (+0)",
+            "Int": "2 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "4 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/236-enjambre-de-murcielagos"
+    },
+    {
+        "name": "Enjambre de insectos",
+        "descripcion": "[:  : Bestia : 12 (armadura natural) : 22 : 1/2 (100 PX) : 20 pies 20 pies escalando]",
+        "table": {
+            "Fue": "3 (-4)",
+            "Des": "13 (+1)",
+            "Con": "10 (+0)",
+            "Int": "1 (-5)",
+            "Sab": "7 (-2)",
+            "Car": "1 (-5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/235-enjambre-de-insectos"
+    },
+    {
+        "name": "Enjambre de cuervos",
+        "descripcion": "[:  : Bestia : 12 : 24 (7d8–7) : 1/4 (50 PX) : 10 pies 50 pies volando]",
+        "table": {
+            "Fue": "6 (-2)",
+            "Des": "14 (+2)",
+            "Con": "8 (-1)",
+            "Int": "3 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/234-enjambre-de-cuervos"
+    },
+    {
+        "name": "Engendro vampírico",
+        "descripcion": "[Las víctimas del vampiro pueden levantarse como sus esclavos convertidas en versiones oscuras y retorcidas de las personas que otrora fueran. Obtienen parte de los poderes de su amo al que sirven con una lealtad inquebrantable.]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "16 (+3)",
+            "Con": "16 (+3)",
+            "Int": "11 (+0)",
+            "Sab": "10 (+0)",
+            "Car": "12 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/82-engendro-vampirico"
+    },
+    {
+        "name": "Gólem de hierro",
+        "descripcion": "[Este masivo constructo de hierro tiene la apariencia de una enorme armadura o un gigante totalmente acorazado. Aunque es capaz de reducir a pulpa a sus enemigos usando su puño y su espada el veneno de su interior consume a los incautos que lo respiran cuando lo libera.]",
+        "table": {
+            "Fue": "24 (+7)",
+            "Des": "9 (-1)",
+            "Con": "20 (+5)",
+            "Int": "3 (-4)",
+            "Sab": "11 (+0)",
+            "Car": "1 (-5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/116-golem-de-hierro"
+    },
+    {
+        "name": "Gólem de carne",
+        "descripcion": "[Cosiendo sin mucha fortuna diferentes partes de cadáveres una mente perturbada ha creado un abominable remedo de ser humano que se mueve de forma torpe y entre gruñidos. Si la hieren de gravedad la criatura pierde el control y comienza a destruir todo a su paso siendo su creador el único capaz de calmarla… la mayor parte de las veces.]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "9 (-1)",
+            "Con": "18 (+4)",
+            "Int": "6 (-2)",
+            "Sab": "10 (+0)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/115-golem-de-carne"
+    },
+    {
+        "name": "Gólem de arcilla",
+        "descripcion": "[Esculpido en arcilla este constructo parecería una gran estatua si no fuera porque camina y ataca con inusitada velocidad.]",
+        "table": {
+            "Fue": "20 (+5)",
+            "Des": "9 (-1)",
+            "Con": "18 (+4)",
+            "Int": "3 (-4)",
+            "Sab": "8 (-1)",
+            "Car": "1 (-5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/114-golem-de-arcilla"
+    },
+    {
+        "name": "Grifo",
+        "descripcion": "[La parte inferior del cuerpo de esta majestuosa águila es la de un león lo cual parece encajar con el comportamiento carnívoro de este híbrido volador. Cuando alza el vuelo nada escapa a su aguda vista del mismo modo que es difícil escapar de sus armas naturales. Los grifos pueden ser entrenados para la monta y algunos llegan a convertirse en leales monturas que defenderán hasta la muerte a su amo aunque esta es una práctica peligrosa dado el carácter de la bestia.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "15 (+2)",
+            "Con": "16 (+3)",
+            "Int": "2 (-4)",
+            "Sab": "13 (+1)",
+            "Car": "8 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/109-grifo"
+    },
+    {
+        "name": "Grick",
+        "descripcion": "[Repugnante babosa gigante dotada de un pico de loro y cuatro tentáculos que acaban en ganchos. Esta abominación caza desde la sombras entre las rocas esperando pacientemente a sus presas para emboscar con brutalidad.]",
+        "table": {
+            "Fue": "14 (+2)",
+            "Des": "14 (+2)",
+            "Con": "11 (+0)",
+            "Int": "3 (-4)",
+            "Sab": "14 (+2)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/108-grick"
+    },
+    {
+        "name": "Gorgón",
+        "descripcion": "[Esta bestia recuerda a un enorme toro dotado de grandes cuernos pero recubierto de placas hierro que no dejan entrever su piel. La mole del gorgón devasta todo lo que alcanzan sus cuernos en su enérgica carga aplastando a sus víctimas bajo sus pesadas pezuñas o quebrando los cuerpos de aquellos a quienes petrifica con su aliento.]",
+        "table": {
+            "Fue": "20 (+5)",
+            "Des": "11 (+0)",
+            "Con": "18 (+4)",
+            "Int": "2 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/106-gorgon"
+    },
+    {
+        "name": "Gran goblin",
+        "descripcion": "[Un goblin de piel verdosa equipado para la guerra con una brillante espada y una cota de malla bien mantenida. Marcha junto a los suyos con disciplina marcial trabajando en equipo como una manada de lobos para acabar con sus enemigos en el campo de batalla.]",
+        "table": {
+            "Fue": "13 (+1)",
+            "Des": "12 (+1)",
+            "Con": "12 (+1)",
+            "Int": "10 (+0)",
+            "Sab": "10 (+0)",
+            "Car": "9 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/107-gran-goblin"
+    },
+    {
+        "name": "Gólem de piedra",
+        "descripcion": "[Una estatua esculpida con gran talento que se mueve animada por la magia. Aunque está hecha de piedra se mueve a gran velocidad no así los imprudentes que se acercan demasiado a ella que ven cómo sus cuerpos empiezan a pesar demasiado como para moverse con normalidad.]",
+        "table": {
+            "Fue": "22 (+6)",
+            "Des": "9 (-1)",
+            "Con": "20 (+5)",
+            "Int": "3 (-4)",
+            "Sab": "11 (+0)",
+            "Car": "1 (-5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/117-golem-de-piedra"
+    },
+    {
+        "name": "Goblin",
+        "descripcion": "[Este pequeño y detestable humanoide de piel verde suele acompañar a otros trasgoides en combate aunque su moral es baja y suelen echarse a correr cuando la situación se complica. Aunque es un combatiente mediocre su gran número compensa esa deficiencia.]",
+        "table": {
+            "Fue": "8 (-1)",
+            "Des": "14 (+2)",
+            "Con": "10 (+0)",
+            "Int": "10 (+0)",
+            "Sab": "8 (-1)",
+            "Car": "8 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/190-goblin"
+    },
+    {
+        "name": "Gnomo de las profundidades (svirfneblin)",
+        "descripcion": "[Este pequeño humanoide de piel gris y escaso cabello se camufla a la perfección entre las rocas habilidad que complementa con sus trucos de magia. Aunque simpático su pico y cerbatana dejan bien claro que sabe defenderse.]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "14 (+2)",
+            "Con": "14 (+2)",
+            "Int": "12 (+1)",
+            "Sab": "10 (+0)",
+            "Car": "9 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/105-gnomo-de-las-profundidades-svirfneblin"
+    },
+    {
+        "name": "Gnoll",
+        "descripcion": "[Una cruel criatura en la que se combinan los peores rasgos de los humanoides con los de las hienas resultando en un bestial híbrido con cabeza de depredador y actitud predatoria. Va armado con una lanza y porta un arco pero sus fauces son igual de peligrosas.]",
+        "table": {
+            "Fue": "14 (+2)",
+            "Des": "12 (+1)",
+            "Con": "11 (+0)",
+            "Int": "6 (-2)",
+            "Sab": "10 (+0)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/104-gnoll"
+    },
+    {
+        "name": "Glabrezu",
+        "descripcion": "[Pocos demonios son tan poderosos como el bestial glabrezu un mastodonte quitinoso dotado de dos enormes pinzas de escorpión manos útiles del tamaño de mazas de guerra y un pavoroso poder mágico con el que confunde las voluntades y anula la magia de sus adversarios. El canino rostro del glabrezu muestra siempre una honda felicidad al encontrarse en lo más brutal del combate donde casi puede oler el miedo.]",
+        "table": {
+            "Fue": "20 (+5)",
+            "Des": "15 (+2)",
+            "Con": "21 (+5)",
+            "Int": "19 (+4)",
+            "Sab": "17 (+3)",
+            "Car": "16 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/103-glabrezu"
+    },
+    {
+        "name": "Gladiador",
+        "descripcion": "[Los gladiadores luchan para el entretenimiento de la escandalosa multitud. Algunos son unos luchadores de la arena brutales que tratan cada pelea como si fuera a vida o muerte mientras que otros son duelistas profesionales que manejan grandes cantidades de dinero pero que rara vez luchan a muerte.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "15 (+2)",
+            "Con": "16 (+3)",
+            "Int": "10 (+0)",
+            "Sab": "12 (+1)",
+            "Car": "15 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/307-gladiador"
+    },
+    {
+        "name": "Grimórlock",
+        "descripcion": "[Este degenerado y brutal humanoide subterráneo es totalmente ciego aunque no precisa de la vista ya que sus otros sentidos se han desarrollado sobremanera. Depreda en grupo a otros humanoides ya sea para comer su carne o sacrificarlos a sus terribles dioses.]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "12 (+1)",
+            "Con": "12 (+1)",
+            "Int": "9 (-1)",
+            "Sab": "8 (-1)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/110-grimorlock"
+    },
+    {
+        "name": "Guardia",
+        "descripcion": "[Los guardias pueden ser miembros de la guardia de la ciudad centinelas en una ciudadela o en una ciudad fortificada y guardaespaldas de mercaderes y nobles.]",
+        "table": {
+            "Fue": "13 (+1)",
+            "Des": "12 (+1)",
+            "Con": "12 (+1)",
+            "Int": "10 (+0)",
+            "Sab": "11 (+0)",
+            "Car": "10 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/308-guardia"
+    },
+    {
+        "name": "Ginoesfinge",
+        "descripcion": "[El rostro de una serena reina dotada tanto de una sublime bravura como de la majestuosidad de una leona de quien toma cuerpo y de un halcón pues está dotada de sus mismas alas mira inescrutable a los mortales. Sus ojos ven más allá del presente pues le permiten contemplar el pasado y el futuro y su voz resuena con el peso de las eras cuando se digna a hablar con los mortales usando enrevesados enigmas.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "15 (+2)",
+            "Con": "16 (+3)",
+            "Int": "18 (+4)",
+            "Sab": "18 (+4)",
+            "Car": "18 (+4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/102-ginoesfinge"
+    },
+    {
+        "name": "Gigante de piedra",
+        "descripcion": "[Este gigante parece haber sido cincelado en roca y aunque tosco no parece estar falto de inteligencia. Su voz que suena como una avalancha narra historias acontecidas en las montañas y las colinas mientras juega con sus congéneres a tirarse enormes rocas.]",
+        "table": {
+            "Fue": "23 (+6)",
+            "Des": "15 (+2)",
+            "Con": "20 (+5)",
+            "Int": "10 (+0)",
+            "Sab": "12 (+1)",
+            "Car": "9 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/101-gigante-de-piedra"
+    },
+    {
+        "name": "Gigante de las nubes",
+        "descripcion": "[Un gigante de piel gris y abundante pelo azul vestido de forma extravagante. Se jacta de ser el bondadoso príncipe de un castillo en las nubes y de estar en guerra con un malévolo primo que es señor de un dominio similar.]",
+        "table": {
+            "Fue": "27 (+8)",
+            "Des": "10 (+0)",
+            "Con": "22 (+6)",
+            "Int": "12 (+1)",
+            "Sab": "16 (+3)",
+            "Car": "16 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/100-gigante-de-las-nubes"
+    },
+    {
+        "name": "Gigante de las colinas",
+        "descripcion": "[Un gigante semidesnudo de aspecto primitivo que balancea una enorme clava al caminar. Este matón de enorme barriga huele a vino rancio y carne podrida que parece ser la base de su dieta.]",
+        "table": {
+            "Fue": "21 (+5)",
+            "Des": "8 (-1)",
+            "Con": "19 (+4)",
+            "Int": "5 (-3)",
+            "Sab": "9 (-1)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/99-gigante-de-las-colinas"
+    },
+    {
+        "name": "Gigante de fuego",
+        "descripcion": "[Este gigante pelirrojo de piel de color carbón viste una armadura de placas forjada en hierro negro que va a juego con su espadón. Su rostro es tiránico y al caminar lo hace como si fuera señor de todo a su alrededor.]",
+        "table": {
+            "Fue": "25 (+7)",
+            "Des": "9 (-1)",
+            "Con": "23 (+6)",
+            "Int": "10 (+0)",
+            "Sab": "14 (+2)",
+            "Car": "13 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/97-gigante-de-fuego"
+    },
+    {
+        "name": "Gigante de escarcha",
+        "descripcion": "[Un bárbaro de piel azul cuya blanca melena está decorada con cráneos de sus enemigos y carne congelada. Blande un hacha a dos manos que puede cortar de una vez el más grueso roble. Lo rodea un aura fría como si le invierno lo siguiese allá donde va.]",
+        "table": {
+            "Fue": "23 (+6)",
+            "Des": "9 (-1)",
+            "Con": "21 (+5)",
+            "Int": "9 (-1)",
+            "Sab": "10 (+0)",
+            "Car": "12 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/96-gigante-de-escarcha"
+    },
+    {
+        "name": "Gibado",
+        "descripcion": "[Este jorobado y pestilente demonio de andares lentos se encuentra lejos del poder de sus superiores pero lo compensa con una estupidez tal que lo hace inmune al desaliento. Sería digno de lástima de no ser por el mal que habita en él. El gibado prefiere atacar con sus fauces porcinas o sus potentes garras si bien cuando se encuentra superado libera un miasma venenoso capaz de matar a los seres de corazón más débil.]",
+        "table": {
+            "Fue": "11 (+0)",
+            "Des": "11 (+0)",
+            "Con": "12 (+1)",
+            "Int": "5 (-3)",
+            "Sab": "8 (-1)",
+            "Car": "3 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/95-gibado"
+    },
+    {
+        "name": "Gelatina ocre",
+        "descripcion": "[Una descerebrada y gran masa color mostaza que puede llegar a infestar subterráneos debido a su peculiar ciclo reproductivo ya que si se electrocuta o corta a una gelatina ocre se dividirá en dos de menor tamaño.]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "6 (-2)",
+            "Con": "14 (+2)",
+            "Int": "2 (-4)",
+            "Sab": "6 (-2)",
+            "Car": "1 (-5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/94-gelatina-ocre"
+    },
+    {
+        "name": "Gigante de la tormenta",
+        "descripcion": "[En una de sus manos este barbado gigante porta un hermoso mandoble y en la otra un rayo prisionero de su voluntad. Los ojos violeta que se esconden detrás de su yelmo parecen capaces de mirar al futuro y su voz comanda los elementos.]",
+        "table": {
+            "Fue": "29 (+9)",
+            "Des": "14 (+2)",
+            "Con": "20 (+5)",
+            "Int": "16 (+3)",
+            "Sab": "18 (+4)",
+            "Car": "18 (+4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/98-gigante-de-la-tormenta"
+    },
+    {
+        "name": "Gato",
+        "descripcion": "[:  : Bestia : 12 : 2 : 0 (10 PX) : 40 pies 30 pies escalando]",
+        "table": {
+            "Fue": "3 (-4)",
+            "Des": "15 (+2)",
+            "Con": "10 (+0)",
+            "Int": "3 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/243-gato"
+    },
+    {
+        "name": "Hipogrifo",
+        "descripcion": "[Fabulosa bestia alada que combina la parte delantera y las alas de un águila con los cuartos traseros de un caballo de guerra. El hipogrifo es famoso por su potencial de ser la más leal montura si se entrena desde cría. La carne del hipogrifo es un manjar para muchas bestias como dragones y grifos que lo cazan con frecuencia.]",
+        "table": {
+            "Fue": "17 (+3)",
+            "Des": "13 (+1)",
+            "Con": "13 (+1)",
+            "Int": "2 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "8 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/120-hipogrifo"
+    },
+    {
+        "name": "Hiena gigante",
+        "descripcion": "[:  : Bestia : 12 : 45 : 1 (200 PX) : 50 pies]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "14 (+2)",
+            "Con": "14 (+2)",
+            "Int": "2 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/248-hiena-gigante"
+    },
+    {
+        "name": "Hombre tigre",
+        "descripcion": "[Este feroz licántropo presenta rasgos de tigre y humanoide así como un fuerte instinto de competición y de territorialidad. Suele cazar empleando su agilidad y potencia física aunque rara vez comparte su maldición ya que detesta compartir el territorio con otro depredador.]",
+        "table": {
+            "Fue": "17 (+3)",
+            "Des": "15 (+2)",
+            "Con": "16 (+3)",
+            "Int": "10 (+0)",
+            "Sab": "13 (+1)",
+            "Car": "11 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/126-hombre-tigre"
+    },
+    {
+        "name": "Hombre lagarto",
+        "descripcion": "[Humanoides reptilianos que moran en pantanos y junglas desde tiempos pretéritos conocidos por su xenofobia territorialidad y fiereza en el campo de batalla. Aunque primitivos los hombres lagarto están totalmente adaptados a su entorno: son cazadores anfibios y diestros en la fabricación de armas con huesos de grandes bestias selváticas.]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "10 (+0)",
+            "Con": "13 (+1)",
+            "Int": "7 (-2)",
+            "Sab": "12 (+1)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/122-hombre-lagarto"
+    },
+    {
+        "name": "Hombre oso",
+        "descripcion": "[Un humanoide peludo dotado de grandes músculos y cabeza de oso. De entre todos los licántropos este es el único que controlar su naturaleza bestial volviéndose una criatura solitaria que evita el contacto por miedo a dañar a inocentes.]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "10 (+0)",
+            "Con": "17 (+3)",
+            "Int": "11 (+0)",
+            "Sab": "12 (+1)",
+            "Car": "12 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/124-hombre-oso"
+    },
+    {
+        "name": "Hombre rata",
+        "descripcion": "[Este ladino y avaricioso ser con cabeza de rata es un hábil escaramuzador que compensa su falta de poderío físico con destreza y astucia. Prefiere operar desde las sombras formando bandas que solo infectan a aquellos que creen que pueden aportar algo a su grupo.]",
+        "table": {
+            "Fue": "10 (+0)",
+            "Des": "15 (+2)",
+            "Con": "12 (+1)",
+            "Int": "11 (+0)",
+            "Sab": "10 (+0)",
+            "Car": "8 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/125-hombre-rata"
+    },
+    {
+        "name": "Hombre lobo",
+        "descripcion": "[Un terrorífico híbrido entre humanoide y lobo con fortísimos instintos predatorios y una ferocidad a juego con su maldad. Los hombres lobo abrazan el inmenso poder que reciben perdiéndose en la bestialidad.]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "13 (+1)",
+            "Con": "14 (+2)",
+            "Int": "10 (+0)",
+            "Sab": "11 (+0)",
+            "Car": "10 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/123-hombre-lobo"
+    },
+    {
+        "name": "Hombre jabalí",
+        "descripcion": "[Un temperamental híbrido entre humano y jabalí que disfruta extendiendo su maldición de forma masiva o masacrando inocentes con sus armas naturales. Este bruto suele formar catervas que operan desde lugares remotos.]",
+        "table": {
+            "Fue": "17 (+3)",
+            "Des": "10 (+0)",
+            "Con": "15 (+2)",
+            "Int": "10 (+0)",
+            "Sab": "11 (+0)",
+            "Car": "8 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/121-hombre-jabali"
+    },
+    {
+        "name": "Hiena",
+        "descripcion": "[:  : Bestia : 11 : 5 : 0 (10 PX) : 50 pies]",
+        "table": {
+            "Fue": "11 (+0)",
+            "Des": "13 (+1)",
+            "Con": "12 (+1)",
+            "Int": "2 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/247-hiena"
+    },
+    {
+        "name": "Hidra",
+        "descripcion": "[Un extraño monstruo reptiliano dotado de cinco cabezas similares a las de un cocodrilo que atacan con ferocidad. Su facultad más extraordinaria es la de regenerar dos cabezas por cada una que pierde: las hidras más ancianas y endurecidas tienen más de una docena.]",
+        "table": {
+            "Fue": "20 (+5)",
+            "Des": "12 (+1)",
+            "Con": "20 (+5)",
+            "Int": "2 (-4)",
+            "Sab": "10 (+0)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/119-hidra"
+    },
+    {
+        "name": "Hezrou",
+        "descripcion": "[Esta mole mitad batracio mitad gigante es el pestilente soldado raso de las hordas demoníacas corto de entendederas pero terrible en la batalla donde sus fauces y garras aplastan todo lo que se pone a su alcance. Solo hay una cosa peor que su crueldad: el nauseabundo olor que libera para envenenar a quien lo rodea.]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "17 (+3)",
+            "Con": "20 (+5)",
+            "Int": "5 (-3)",
+            "Sab": "12 (+1)",
+            "Car": "13 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/118-hezrou"
+    },
+    {
+        "name": "Halcón",
+        "descripcion": "[:  : Bestia : 13 : 1 (1d4–1) : 0 (10 PX) : 10 pies 60 pies volando]",
+        "table": {
+            "Fue": "5 (-3)",
+            "Des": "16 (+3)",
+            "Con": "8 (-1)",
+            "Int": "2 (-4)",
+            "Sab": "14 (+2)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/245-halcon"
+    },
+    {
+        "name": "Halcón sangriento",
+        "descripcion": "[El halcón sangriento que recibe su nombre por sus alas carmesíes y su naturaleza agresiva ataca con su pico a modo de daga a casi cualquier animal. Los halcones sangrientos van en grandes grupos y atacan en bandada para derrotar a sus presas.]",
+        "table": {
+            "Fue": "6 (-2)",
+            "Des": "14 (+2)",
+            "Con": "10 (+0)",
+            "Int": "3 (-4)",
+            "Sab": "14 (+2)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/246-halcon-sangriento"
+    },
+    {
+        "name": "Jabalí",
+        "descripcion": "[:  : Bestia : 11 (armadura natural) : 11 : 1/4 (50 PX) : 40 pies]",
+        "table": {
+            "Fue": "13 (+1)",
+            "Des": "11 (+0)",
+            "Con": "12 (+1)",
+            "Int": "2 (-4)",
+            "Sab": "9 (-1)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/250-jabali"
+    },
+    {
+        "name": "Jabalí gigante",
+        "descripcion": "[:  : Bestia : 12 (armadura natural) : 42 : 2 (450 PX) : 40 pies]",
+        "table": {
+            "Fue": "17 (+3)",
+            "Des": "10 (+0)",
+            "Con": "16 (+3)",
+            "Int": "2 (-4)",
+            "Sab": "7 (-2)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/251-jabali-gigante"
+    },
+    {
+        "name": "Incorpóreo",
+        "descripcion": "[Malicioso ser de ultratumba cuyo cuerpo físico lo sustituye toda la maldad que un mortal poseyese en vida. Es temido no solo por su capacidad para drenar la vida sino también por su poder para esclavizar como espectros las almas de los muertos recientes.]",
+        "table": {
+            "Fue": "6 (-2)",
+            "Des": "16 (+3)",
+            "Con": "16 (+3)",
+            "Int": "12 (+1)",
+            "Sab": "14 (+2)",
+            "Car": "15 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/131-incorporeo"
+    },
+    {
+        "name": "Ifriti",
+        "descripcion": "[Un monstruoso humanoide dotado de cuernos y envuelto en fuego con un rostro cruel y unas manos rematadas en garras. Sus abalorios y amuletos de bronce brillan al rojo vivo igual que su cimitarra bañada en fuego.]",
+        "table": {
+            "Fue": "22 (+6)",
+            "Des": "12 (+1)",
+            "Con": "24 (+7)",
+            "Int": "16 (+3)",
+            "Sab": "15 (+2)",
+            "Car": "16 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/130-ifriti"
+    },
+    {
+        "name": "Huargo",
+        "descripcion": "[El huargo es un depredador malvado que se deleita cazando y devorando criaturas más débiles que él. Los huargos son astutos y malévolos y vagan por las tierras salvajes remotas. A veces los trasgos y los grandes trasgos los crían como monturas pero un huargo se volverá contra su jinete si siente que le está tratando o alimentando mal. Los huergos hablan su propio idioma y trasgo y unos cuantos también aprenden a hablar común.]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "13 (+1)",
+            "Con": "13 (+1)",
+            "Int": "7 (-2)",
+            "Sab": "11 (+0)",
+            "Car": "8 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/249-huargo"
+    },
+    {
+        "name": "Hongo violáceo",
+        "descripcion": "[Hongo violeta de aspecto ordinario que ataca a los seres vivos que tiene cerca con sus dañinos zarcillos.]",
+        "table": {
+            "Fue": "3 (-4)",
+            "Des": "1 (-5)",
+            "Con": "10 (+0)",
+            "Int": "1 (-5)",
+            "Sab": "3 (-4)",
+            "Car": "1 (-5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/129-hongo-violaceo"
+    },
+    {
+        "name": "Hongo chillón",
+        "descripcion": "[Gran hongo de aspecto ordinario que algunas criaturas subterráneas utilizan como método de alarma ya que emite un alto y agudo chillido si se expone a la luz o detecta una presencia cerca de él.]",
+        "table": {
+            "Fue": "1 (-5)",
+            "Des": "1 (-5)",
+            "Con": "10 (+0)",
+            "Int": "1 (-5)",
+            "Sab": "3 (-4)",
+            "Car": "1 (-5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/128-hongo-chillon"
+    },
+    {
+        "name": "Hachapico",
+        "descripcion": "[Un hachapico es un pájaro alto de patas fuertes y pico en forma de cuña que no puede volar. Es bastante arisco y tiene a atacar a los desconocidos que se le acercan demasiado.]",
+        "table": {
+            "Fue": "14 (+2)",
+            "Des": "12 (+1)",
+            "Con": "12 (+1)",
+            "Int": "2 (-4)",
+            "Sab": "10 (+0)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/244-hachapico"
+    },
+    {
+        "name": "Homúnculo",
+        "descripcion": "[Este diminuto constructo es creado como familiar por magos y hechiceros mediante un ritual que requiere entre otros ingredientes la sangre del creador. El resultado es un pequeño ser alado de extraño aspecto que vive vinculado telepáticamente a su hacedor.]",
+        "table": {
+            "Fue": "4 (-3)",
+            "Des": "15 (+2)",
+            "Con": "11 (+0)",
+            "Int": "10 (+0)",
+            "Sab": "10 (+0)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/127-homunculo"
+    },
+    {
+        "name": "Gusano púrpura",
+        "descripcion": "[Esta colosal aberración vermiforme horada la tierra y la roca con sus fauces dotadas de dientes grandes como escudos. En su afán por encontrar alimento es capaz de destruir murallas y fortalezas. Su cuerpo segmentado es duro como la piedra y su aguijón contiene un veneno letal.]",
+        "table": {
+            "Fue": "28 (+9)",
+            "Des": "7 (-2)",
+            "Con": "22 (+6)",
+            "Int": "1 (-5)",
+            "Sab": "8 (-1)",
+            "Car": "4 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/112-gusano-purpura"
+    },
+    {
+        "name": "Guerrero tribal",
+        "descripcion": "[Los guerreros tribales viven apartados de la civilización subsistiendo de la pesca y de la caza. Cada tribu actúa de acuerdo a los deseos de su jefe que es el mejor guerrero o el más viejo de la tribu o un miembro de la tribu bendecido por los dioses.]",
+        "table": {
+            "Fue": "13 (+1)",
+            "Des": "11 (+0)",
+            "Con": "12 (+1)",
+            "Int": "8 (-1)",
+            "Sab": "11 (+0)",
+            "Car": "8 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/309-guerrero-tribal"
+    },
+    {
+        "name": "Guardián escudo",
+        "descripcion": "[Este magnífico constructo acorazado es el protector definitivo puesto que su mera presencia protege del daño al portador de un amuleto místico vinculado a él. Además tiene la capacidad de almacenar conjuros y recuperarse de los daños sufridos y sus dos enormes puños son devastadores.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "8 (-1)",
+            "Con": "18 (+4)",
+            "Int": "7 (-2)",
+            "Sab": "10 (+0)",
+            "Car": "3 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/111-guardian-escudo"
+    },
+    {
+        "name": "Manto",
+        "descripcion": "[Una inteligente aberración subterránea capaz de volar que recuerda a una mantarraya gigante con fauces dentadas y una cola ganchuda similar a la de un escorpión. El manto se mimetiza con el entorno antes de atacar entre terroríficos gemidos y rodeado de copias espectrales de sí mismo. Cuando atrapa a su presa la ciega y limita envolviéndola con su propio cuerpo.]",
+        "table": {
+            "Fue": "17 (+3)",
+            "Des": "15 (+2)",
+            "Con": "12 (+1)",
+            "Int": "13 (+1)",
+            "Sab": "12 (+1)",
+            "Car": "14 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/139-manto"
+    },
+    {
+        "name": "Mantícora",
+        "descripcion": "[Aunque la cabeza de la mantícora es levemente humana pocos seres son tan monstruosos como ella. Su cuerpo es el de un poderoso león aunque está erizado de púas mientras que su cola es de escorpión y sus alas de dragón que le permiten elevar el vuelo. La mantícora es un depredador movido por el hambre y un sadismo sanguinario.]",
+        "table": {
+            "Fue": "17 (+3)",
+            "Des": "16 (+3)",
+            "Con": "17 (+3)",
+            "Int": "7 (-2)",
+            "Sab": "12 (+1)",
+            "Car": "8 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/141-manticora"
+    },
+    {
+        "name": "Mastín",
+        "descripcion": "[Los mastines son perros de caza que los humanos aprecian por su lealtad y sus sentidos agudizados. Los mastines se pueden entrenar como perros guardianes perros de caza y perros de guerra. Los medianos y otros humanoides Pequeños los usan como monturas.]",
+        "table": {
+            "Fue": "13 (+1)",
+            "Des": "14 (+2)",
+            "Con": "12 (+1)",
+            "Int": "3 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/259-mastin"
+    },
+    {
+        "name": "Matón",
+        "descripcion": "[Los matones son sicarios implacables entrenados en la intimidación y la violencia. Trabajan por dinero y tienen pocos escrúpulos.]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "11 (+0)",
+            "Con": "14 (+2)",
+            "Int": "10 (+0)",
+            "Sab": "10 (+0)",
+            "Car": "11 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/311-maton"
+    },
+    {
+        "name": "Marilith",
+        "descripcion": "[Demonios femeninos con seis brazos y cuerpo de serpiente gigante en vez de piernas que operan como lugartenientes de los bálor. Las marilith son consumadas estrategas y líderes militares así como terribles combatientes que rara vez encuentran rival para sus seis espadas. Y cuando lo hacen emplean la magia oscura para obtener ventaja.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "20 (+5)",
+            "Con": "20 (+5)",
+            "Int": "18 (+4)",
+            "Sab": "16 (+3)",
+            "Car": "20 (+5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/142-marilith"
+    },
+    {
+        "name": "Méfit de hielo",
+        "descripcion": "[:  : Monstruo : 11 : 21 : 1/2 (100 PX) : 30 pies 30 pies volando]",
+        "table": {
+            "Fue": "7 (-2)",
+            "Des": "13 (+1)",
+            "Con": "10 (+0)",
+            "Int": "9 (-1)",
+            "Sab": "11 (+0)",
+            "Car": "12 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/149-mefit-de-hielo"
+    },
+    {
+        "name": "Medusa",
+        "descripcion": "[Una monstruosidad con la apariencia de una mujer regia pero cuya piel está recubierta de escamas y cuya melena es una multitud de serpientes venenosas. Quienes se enfrenten a una medusa han de temer algo más que su veneno pues su mirada convierte la carne en piedra.]",
+        "table": {
+            "Fue": "10 (+0)",
+            "Des": "15 (+2)",
+            "Con": "16 (+3)",
+            "Int": "12 (+1)",
+            "Sab": "13 (+1)",
+            "Car": "15 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/143-medusa"
+    },
+    {
+        "name": "Mantoscuro",
+        "descripcion": "[Este abominable depredador del mundo subterráneo recuerda a un calamar pero con tentáculos unidos con membranas que le dan cierta semejanza con una sombrilla. El mantoscuro es temido debido a su método de caza que consiste en emboscar desde el techo a su presa envuelto en tinieblas caer sobre su cabeza y ahogarlo hasta matarlo.]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "12 (+1)",
+            "Con": "13 (+1)",
+            "Int": "2 (-4)",
+            "Sab": "10 (+0)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/140-mantoscuro"
+    },
+    {
+        "name": "Mamut",
+        "descripcion": "[El mamut es una criatura similar a un elefante con pelo grueso y unos largos colmillos. Es más corpulento y fiero que los elefantes normales y vive en una amplia variedad de climas desde subárticos a subtropicales.]",
+        "table": {
+            "Fue": "24 (+7)",
+            "Des": "9 (-1)",
+            "Con": "21 (+5)",
+            "Int": "3 (-4)",
+            "Sab": "11 (+0)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/258-mamut"
+    },
+    {
+        "name": "Mago",
+        "descripcion": "[Los magos dedican sus vidas al estudio y a la práctica de la magia. Los magos de alineamientos buenos ofrecen consejo a nobles y otras personas poderosas mientras que los magos malignos viven en lugares aislados para llevar a cabo experimentos innombrables sin que los interrumpan.]",
+        "table": {
+            "Fue": "9 (-1)",
+            "Des": "14 (+2)",
+            "Con": "11 (+0)",
+            "Int": "17 (+3)",
+            "Sab": "12 (+1)",
+            "Car": "11 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/310-mago"
+    },
+    {
+        "name": "Magmino",
+        "descripcion": "[Un pequeño elemental del tamaño de un niño pequeño que está hecho enteramente de magma. Esta criatura de naturaleza caótica quema todo lo que tiene a su alcance pues su toque es incendiario e incluso al morir sigue provocando estragos al explotar envuelto en llamas.]",
+        "table": {
+            "Fue": "7 (-2)",
+            "Des": "15 (+2)",
+            "Con": "12 (+1)",
+            "Int": "8 (-1)",
+            "Sab": "11 (+0)",
+            "Car": "10 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/138-magmino"
+    },
+    {
+        "name": "Lobo terrible",
+        "descripcion": "[:  : Bestia : 14 (armadura natural) : 37 : 1 (200 PX) : 50 pies]",
+        "table": {
+            "Fue": "17 (+3)",
+            "Des": "15 (+2)",
+            "Con": "15 (+2)",
+            "Int": "3 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/257-lobo-terrible"
+    },
+    {
+        "name": "Lobo de invierno",
+        "descripcion": "[El lobo de invierno que vive en el árctico es tan grande como el lobo terrible pero tiene el pelaje blanco como la nieve y los ojos de un color azul pálido. Los gigantes de escarcha usan a estas malvadas criaturas como guardias y compañeros de caza y utilizan su mortal arma de aliento contra sus enemigos. Los lobos de invierno se comunican entre ellos usando gruñidos y ladridos pero hablan común y gigante lo suficientemente bien como para mantener conversaciones simples.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "13 (+1)",
+            "Con": "14 (+2)",
+            "Int": "7 (-2)",
+            "Sab": "12 (+1)",
+            "Car": "8 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/256-lobo-de-invierno"
+    },
+    {
+        "name": "Lobo",
+        "descripcion": "[:  : Bestia : 13 (armadura natural) : 11 : 1/4 (50 PX) : 40 pies]",
+        "table": {
+            "Fue": "12 (+1)",
+            "Des": "15 (+2)",
+            "Con": "12 (+1)",
+            "Int": "3 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/255-lobo"
+    },
+    {
+        "name": "Méfit de polvo",
+        "descripcion": "[:  : Monstruo : 12 : 17 : 1/2 (100 PX) : 30 pies 30 pies volando]",
+        "table": {
+            "Fue": "5 (-3)",
+            "Des": "14 (+2)",
+            "Con": "10 (+0)",
+            "Int": "9 (-1)",
+            "Sab": "11 (+0)",
+            "Car": "10 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/151-mefit-de-polvo"
+    },
+    {
+        "name": "Méfit de magma",
+        "descripcion": "[:  : Monstruo : 11 : 22 : 1/2 (100 PX) : 30 pies 30 pies volando]",
+        "table": {
+            "Fue": "8 (-1)",
+            "Des": "12 (+1)",
+            "Con": "12 (+1)",
+            "Int": "7 (-2)",
+            "Sab": "10 (+0)",
+            "Car": "10 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/150-mefit-de-magma"
+    },
+    {
+        "name": "Liche",
+        "descripcion": "[Restos putrefactos de un poderoso mago que abrazó la no muerte para evitar abandonar este mundo y se convirtió en un muerto viviente hambriento de conocimiento mágico. El toque del liche es pernicioso pues paraliza e incluso necrosa la carne. Para proteger su existencia el liche esconde su alma en una filacteria que alimentada con almas asegura su retorno en caso de que lo destruyan. Acabar con la filacteria acabará con el liche.]",
+        "table": {
+            "Fue": "11 (+0)",
+            "Des": "16 (+3)",
+            "Con": "16 (+3)",
+            "Int": "20 (+5)",
+            "Sab": "14 (+2)",
+            "Car": "16 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/136-liche"
+    },
+    {
+        "name": "León",
+        "descripcion": "[:  : Bestia : 12 : 26 : 1 (200 PX) : 50 pies]",
+        "table": {
+            "Fue": "17 (+3)",
+            "Des": "15 (+2)",
+            "Con": "13 (+1)",
+            "Int": "3 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "8 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/254-leon"
+    },
+    {
+        "name": "Lémur",
+        "descripcion": "[Esta masa de carne barro y huesos es la más baja forma que podemos encontrar entre los diablos un alma mortal condenada a los reinos diabólicos por sus actos que se retuerce al tiempo aúlla seminconsciente. Estos patéticos seres son el barro con el que los reinos diabólicos crean sus inagotables huestes.]",
+        "table": {
+            "Fue": "10 (+0)",
+            "Des": "5 (-3)",
+            "Con": "11 (+0)",
+            "Int": "1 (-5)",
+            "Sab": "11 (+0)",
+            "Car": "3 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/137-lemur"
+    },
+    {
+        "name": "Lagarto gigante",
+        "descripcion": "[El lagarto gigante se puede montar o usar como animal de tiro. Los hombres lagarto también los tienen como mascotas y los drows los duergar y otros usan a los lagartos gigantes subterráneos como monturas y animales de carga.]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "12 (+1)",
+            "Con": "13 (+1)",
+            "Int": "2 (-4)",
+            "Sab": "10 (+0)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/253-lagarto-gigante"
+    },
+    {
+        "name": "Lamia",
+        "descripcion": "[Tiránica criatura del desierto con torso de mujer pero extremidades de leona cuyo salvajismo no tiene par. Hechicera y guerrera notable es temida por su maldición intoxicante.]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "13 (+1)",
+            "Con": "15 (+2)",
+            "Int": "14 (+2)",
+            "Sab": "15 (+2)",
+            "Car": "16 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/135-lamia"
+    },
+    {
+        "name": "Lagarto",
+        "descripcion": "[:  : Bestia : 10 : 2 : 0 (10 PX) : 20 pies 20 pies escalando]",
+        "table": {
+            "Fue": "2 (-4)",
+            "Des": "11 (+0)",
+            "Con": "10 (+0)",
+            "Int": "1 (-5)",
+            "Sab": "8 (-1)",
+            "Car": "3 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/252-lagarto"
+    },
+    {
+        "name": "Kóbold",
+        "descripcion": "[Pequeño humanoide reptiliano de negro corazón famoso por sus astutas trampas y emboscadas donde aplica su ingenio para compensar su escaso poderío físico. El kóbold es un esforzado constructor de túneles aunque usualmente ocupa ruinas y calabozos construidos por otros.]",
+        "table": {
+            "Fue": "7 (-2)",
+            "Des": "15 (+2)",
+            "Con": "9 (-1)",
+            "Int": "8 (-1)",
+            "Sab": "7 (-2)",
+            "Car": "8 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/134-kobold"
+    },
+    {
+        "name": "Kraken",
+        "descripcion": "[Pocas criaturas marinas son tan peligrosas como el titánico kraken una pesadilla tentacular capaz de hundir los barcos más grandes y hacer frente incluso a los más poderosos dragones. Esta bestia maligna y viciosa mora en las simas más profundas del mar y emerge impelida por oscuros instintos y los sacrificios sangrientos de quienes lo adoran como a un dios. Es entonces que trae la devastación con su poder bruto o provocando tormentas en mitad de la mar.]",
+        "table": {
+            "Fue": "30 (+10)",
+            "Des": "11 (+0)",
+            "Con": "25 (+7)",
+            "Int": "22 (+6)",
+            "Sab": "18 (+4)",
+            "Car": "20 (+5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/133-kraken"
+    },
+    {
+        "name": "Khuul",
+        "descripcion": "[Un espantoso crustáceo gigante con dos enormes pinzas y tentáculos faciales cuyo veneno paraliza a sus víctimas que depreda en lugares oscuros y húmedos donde almacena trofeos obtenidos de sus víctimas. El khuul es lo suficientemente inteligente como para obedecer órdenes y detectar la presencia de magia de modo que es un valioso guardián y explorador.]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "10 (+0)",
+            "Con": "16 (+3)",
+            "Int": "5 (-3)",
+            "Sab": "11 (+0)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/132-khuul"
+    },
+    {
+        "name": "Orco",
+        "descripcion": "[Humanoide de piel verdosa y potente musculatura que saquea la civilización desde las tierras salvajes. Los orcos son saqueadores violentos con un desarrollado gusto por la sangre y el combate.]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "12 (+1)",
+            "Con": "16 (+3)",
+            "Int": "7 (-2)",
+            "Sab": "11 (+0)",
+            "Car": "10 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/161-orco"
+    },
+    {
+        "name": "Noble",
+        "descripcion": "[Como miembros de clase alta los nobles poseen mucha autoridad e influencia riqueza y contactos que los hacen tan poderosos como monarcas o generales. Un noble suele viajar con la compañía de guardias así como de sirvientes plebeyos.]",
+        "table": {
+            "Fue": "11 (+0)",
+            "Des": "12 (+1)",
+            "Con": "11 (+0)",
+            "Int": "12 (+1)",
+            "Sab": "14 (+2)",
+            "Car": "16 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/312-noble"
+    },
+    {
+        "name": "Necrófago (Gul)",
+        "descripcion": "[Este devorador de cadáveres aún conserva parte de su apariencia original si bien ha perdido toda la grasa del cuerpo y su piel se ha tornado gris. Sus dientes quiebran los huesos de los muertos mientras que con sus garras hurga dentro de tumbas aún frescas.]",
+        "table": {
+            "Fue": "13 (+1)",
+            "Des": "15 (+2)",
+            "Con": "10 (+0)",
+            "Int": "7 (-2)",
+            "Sab": "10 (+0)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/156-necrofago-gul"
+    },
+    {
+        "name": "Ogro",
+        "descripcion": "[Este gigante corto de entendederas se asemeja a un humano obeso de grandes dientes. Lleva a la espalda una enorme jabalina y blande una clava que bien podría ser un árbol pequeño.]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "8 (-1)",
+            "Con": "16 (+3)",
+            "Int": "5 (-3)",
+            "Sab": "7 (-2)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/158-ogro"
+    },
+    {
+        "name": "Ogro zombi",
+        "descripcion": "[El cadáver descompuesto de un ogro muerto hace no demasiado que se mueve estúpidamente mientras balancea su lucero del alba con una fuerza inusitada.]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "6 (-2)",
+            "Con": "18 (+4)",
+            "Int": "3 (-4)",
+            "Sab": "6 (-2)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/159-ogro-zombi"
+    },
+    {
+        "name": "Oso lechuza",
+        "descripcion": "[Un majestuoso depredador que presenta la masa y garras de un enorme oso con el plumaje y la testa de una lechuza. Caza de noche aprovechando sus desarrollados sentidos y da cuenta de sus presas con su pico y zarpas.]",
+        "table": {
+            "Fue": "20 (+5)",
+            "Des": "12 (+1)",
+            "Con": "17 (+3)",
+            "Int": "3 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/163-oso-lechuza"
+    },
+    {
+        "name": "Osgo",
+        "descripcion": "[Trasgoide de gran tamaño que esclaviza a sus primos menores en virtud de su poderío físico. El osgo es fácilmente reconocible por su hocico y orejas de oso así como por sus hábitos antropófagos.]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "14 (+2)",
+            "Con": "13 (+1)",
+            "Int": "8 (-1)",
+            "Sab": "11 (+0)",
+            "Car": "9 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/162-osgo"
+    },
+    {
+        "name": "Oni",
+        "descripcion": "[Un malévolo gigante de piel azulada o negra que depreda en la noche gracias a sus habilidades arcanas que le permiten moverse sin ser detectado. El oni es un combatiente feroz capaz de regenerar el daño sufrido y alterar su aspecto a voluntad.]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "11 (+0)",
+            "Con": "16 (+3)",
+            "Int": "14 (+2)",
+            "Sab": "12 (+1)",
+            "Car": "15 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/160-oni"
+    },
+    {
+        "name": "Necrario (Ghast)",
+        "descripcion": "[Muerto viviente fibroso y hambriento dotado de largas garras un mordisco narcótico y un hedor insano que lo sigue allá donde va. Aunque se alimenta de la carne de los muertos no tiene problema en acabar con los vivos para procurarse alimento.]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "17 (+3)",
+            "Con": "10 (+0)",
+            "Int": "11 (+0)",
+            "Sab": "10 (+0)",
+            "Car": "8 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/155-necrario-ghast"
+    },
+    {
+        "name": "Nálfeshnee",
+        "descripcion": "[Estos horripilantes y masivos demonios que mezclan atributos de jabalí con los de simio son los senescales de los reinos demoníacos que gestionan pese al caos inherente en sus mundos de origen. Los nálfeshnee poseen pequeñas alas emplumadas que serían cómicas de no exhalar también un aura de horror capaz de acongojar incluso a los héroes más valiente.]",
+        "table": {
+            "Fue": "21 (+5)",
+            "Des": "10 (+0)",
+            "Con": "22 (+6)",
+            "Int": "19 (+4)",
+            "Sab": "12 (+1)",
+            "Car": "15 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/157-nalfeshnee"
+    },
+    {
+        "name": "Murciélago gigante",
+        "descripcion": "[:  : Bestia : 13 : 22 : 1/4 (50 PX) : 10 pies 60 pies volando]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "16 (+3)",
+            "Con": "11 (+0)",
+            "Int": "2 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/262-murcielago-gigante"
+    },
+    {
+        "name": "Naga guardiana",
+        "descripcion": "[Una enorme sierpe de escamas verdes cuyo rostro humanoide transmite paz y una enorme sabiduría. Dedica su inmortalidad a la protección de lugares sagrados y el estudio de la magia y en su labor prefiere evitar la violencia.]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "18 (+4)",
+            "Con": "16 (+3)",
+            "Int": "16 (+3)",
+            "Sab": "19 (+4)",
+            "Car": "18 (+4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/154-naga-guardiana"
+    },
+    {
+        "name": "Naga espiritual",
+        "descripcion": "[Gigantesca serpiente de faz levemente humanoide y totalmente dedicada al mal. Suele habitar en ruinas donde devora mortales que atrae gracias a su poderío mágico y su mordedura ponzoñosa. La naga espiritual no puede morir pues se reconstruye en caso de ser destruida ni necesita alimento agua o aire.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "17 (+3)",
+            "Con": "14 (+2)",
+            "Int": "16 (+3)",
+            "Sab": "15 (+2)",
+            "Car": "16 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/153-naga-espiritual"
+    },
+    {
+        "name": "Murciélago",
+        "descripcion": "[:  : Bestia : 12 : 1 (1d4–1) : 0 (10 PX) : 5 pies 30 pies volando]",
+        "table": {
+            "Fue": "2 (-4)",
+            "Des": "15 (+2)",
+            "Con": "8 (-1)",
+            "Int": "2 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "4 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/261-murcielago"
+    },
+    {
+        "name": "Otyugh",
+        "descripcion": "[El cuerpo de esta gran aberración recubierto de basura y detritus infecciosos son unas fauces enormes sostenidas sobre tres gruesas patas. Sobre su lomo se agitan tres largos tentáculos rematados por ojos y espinas que golpean con fuerza todo lo que se le acerca.]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "11 (+0)",
+            "Con": "19 (+4)",
+            "Int": "6 (-2)",
+            "Sab": "13 (+1)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/164-otyugh"
+    },
+    {
+        "name": "Oso polar",
+        "descripcion": "[:  : Bestia : 12 (armadura natural) : 42 : 2 (450 PX) : 40 pies 30 pies nadando]",
+        "table": {
+            "Fue": "20 (+5)",
+            "Des": "10 (+0)",
+            "Con": "16 (+3)",
+            "Int": "2 (-4)",
+            "Sab": "13 (+1)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/265-oso-polar"
+    },
+    {
+        "name": "Oso pardo",
+        "descripcion": "[:  : Bestia : 11 (armadura natural) : 34 : 1 (200 PX) : 40 pies 30 pies escalando]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "10 (+0)",
+            "Con": "16 (+3)",
+            "Int": "2 (-4)",
+            "Sab": "13 (+1)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/264-oso-pardo"
+    },
+    {
+        "name": "Oso negro",
+        "descripcion": "[:  : Bestia : 11 (armadura natural) : 19 : 1/2 (100 PX) : 40 pies 30 pies escalando]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "10 (+0)",
+            "Con": "14 (+2)",
+            "Int": "2 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/263-oso-negro"
+    },
+    {
+        "name": "Mula",
+        "descripcion": "[:  : Bestia : 10 : 11 : 1/8 (25 PX) : 40 pies]",
+        "table": {
+            "Fue": "14 (+2)",
+            "Des": "10 (+0)",
+            "Con": "13 (+1)",
+            "Int": "2 (-4)",
+            "Sab": "10 (+0)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/260-mula"
+    },
+    {
+        "name": "Morfolito",
+        "descripcion": "[Esta aberración adopta la apariencia de una gran formación calcárea hasta que detecta a una víctima y con sus enormes zarcillos la agarrar y la introduce en su boca. Su afán por consumir carne es implacable pero por fortuna el morfolito es una criatura lenta.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "8 (-1)",
+            "Con": "17 (+3)",
+            "Int": "7 (-2)",
+            "Sab": "16 (+3)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/148-morfolito"
+    },
+    {
+        "name": "Monstruo corrosivo",
+        "descripcion": "[Un extraño insecto de color óxido que se alimenta de materiales férreos los cuales rastrea como un sabueso gracias a un olfato refinado. Con el toque de sus grandes antenas los oxida para facilitar su ingesta. El monstruo corrosivo puede incluso echar a perder armas armaduras y escudos encantados.]",
+        "table": {
+            "Fue": "13 (+1)",
+            "Des": "12 (+1)",
+            "Con": "13 (+1)",
+            "Int": "2 (-4)",
+            "Sab": "13 (+1)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/147-monstruo-corrosivo"
+    },
+    {
+        "name": "Momia",
+        "descripcion": "[Polvoriento muerto viviente que antaño fue envuelto en tiras de lino para preservar su cuerpo y animarlo siglos después como un abominable y no demasiado inteligente guardián. La momia es un vigilante de criptas dedicado a aterrorizar a los saqueadores o consumir la vitalidad de sus cuerpos con su toque ponzoñoso.]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "8 (-1)",
+            "Con": "15 (+2)",
+            "Int": "6 (-2)",
+            "Sab": "10 (+0)",
+            "Car": "12 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/146-momia"
+    },
+    {
+        "name": "Minotauro",
+        "descripcion": "[Este monstruo combina el cuerpo de un guerrero con la testa de un toro bravo si bien sus ojos son rojos y sus dientes dejan claros sus hábitos carnívoros. Su sentido de la orientación es magnífico por eso suele custodiar laberintos y complejos subterráneos donde aniquila con su enorme hacha y afiladas astas a los imprudentes que se adentran en ellos.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "11 (+0)",
+            "Con": "16 (+3)",
+            "Int": "6 (-2)",
+            "Sab": "16 (+3)",
+            "Car": "9 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/145-minotauro"
+    },
+    {
+        "name": "Mimeto",
+        "descripcion": "[A simple vista el mimeto parece un objeto común como una silla o un cofre pero cuando alguien lo toca descubre su gran boca y una larga lengua pegajosa capaz de arrastrar a sus dientes castañeteantes a un hombre adulto. Los mimetos son perversos emboscadores y suelen custodiar viejas guaridas o depredar en lugares abandonados.]",
+        "table": {
+            "Fue": "17 (+3)",
+            "Des": "12 (+1)",
+            "Con": "15 (+2)",
+            "Int": "5 (-3)",
+            "Sab": "13 (+1)",
+            "Car": "8 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/144-mimeto"
+    },
+    {
+        "name": "Méfit de vapor",
+        "descripcion": "[:  : Monstruo : 10 : 21 : 1/4 (50 PX) : 30 pies 30 pies volando]",
+        "table": {
+            "Fue": "5 (-3)",
+            "Des": "11 (+0)",
+            "Con": "10 (+0)",
+            "Int": "11 (+0)",
+            "Sab": "10 (+0)",
+            "Car": "12 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/152-mefit-de-vapor"
+    },
+    {
+        "name": "Quimera",
+        "descripcion": "[Un gigantesco león con alas y cola de dragón rojo dotado de una cabeza de dragón rojo que vomita fuego y la de un carnero de cuernos curvos. Esta destructiva monstruosidad es la pesadilla de reinos enteros pero es indudable que existe cierta majestad en ella.]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "11 (+0)",
+            "Con": "19 (+4)",
+            "Int": "3 (-4)",
+            "Sab": "14 (+2)",
+            "Car": "10 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/172-quimera"
+    },
+    {
+        "name": "Quasit",
+        "descripcion": "[Los diminutos quasit son los demonios más débiles si bien no están faltos de maldad y crueldad tan solo de poderío. Con sus pequeñas alas estas rojizas parodias de humanos se mueven a gran velocidad ya sea para asustar a sus víctimas o para realizar feroces ataques aprovechando su invisibilidad.]",
+        "table": {
+            "Fue": "5 (-3)",
+            "Des": "17 (+3)",
+            "Con": "10 (+0)",
+            "Int": "7 (-2)",
+            "Sab": "10 (+0)",
+            "Car": "10 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/171-quasit"
+    },
+    {
+        "name": "Rata",
+        "descripcion": "[:  : Bestia : 10 : 1 (1d4–1) : 0 (10 PX) : 20 pies]",
+        "table": {
+            "Fue": "2 (-4)",
+            "Des": "11 (+0)",
+            "Con": "9 (-1)",
+            "Int": "2 (-4)",
+            "Sab": "10 (+0)",
+            "Car": "4 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/275-rata"
+    },
+    {
+        "name": "Rana",
+        "descripcion": "[La rana no tiene ataques efectivos. Se alimenta de pequeños insectos y normalmente vive cerca del agua en árboles o bajo el suelo. Las estadísticas de la rana también se pueden usar para representar a un sapo.]",
+        "table": {
+            "Fue": "1 (-5)",
+            "Des": "13 (+1)",
+            "Con": "8 (-1)",
+            "Int": "1 (-5)",
+            "Sab": "8 (-1)",
+            "Car": "3 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/273-rana"
+    },
+    {
+        "name": "Rana gigante",
+        "descripcion": "[:  : Bestia : 11 : 18 : 1/4 (50 PX) : 30 pies 30 pies nadando]",
+        "table": {
+            "Fue": "12 (+1)",
+            "Des": "13 (+1)",
+            "Con": "11 (+0)",
+            "Int": "2 (-4)",
+            "Sab": "10 (+0)",
+            "Car": "3 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/274-rana-gigante"
+    },
+    {
+        "name": "Pulpo gigante",
+        "descripcion": "[:  : Bestia : 11 : 52 : 1 (200 PX) : 10 pies 60 pies nadando]",
+        "table": {
+            "Fue": "17 (+3)",
+            "Des": "13 (+1)",
+            "Con": "13 (+1)",
+            "Int": "4 (-3)",
+            "Sab": "10 (+0)",
+            "Car": "4 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/272-pulpo-gigante"
+    },
+    {
+        "name": "Rakshasa",
+        "descripcion": "[Este infernal tiene un carisma arrebatador pese a su cabeza de tigre y sus deformes manos invertidas y viste con elegancia finos tejidos dignos de un príncipe. Corruptor y peligroso es capaz de destruir a sus enemigos tanto mediante engaños como con sus garras malditas.]",
+        "table": {
+            "Fue": "14 (+2)",
+            "Des": "17 (+3)",
+            "Con": "18 (+4)",
+            "Int": "13 (+1)",
+            "Sab": "16 (+3)",
+            "Car": "20 (+5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/173-rakshasa"
+    },
+    {
+        "name": "Pulpo",
+        "descripcion": "[:  : Bestia : 12 : 3 : 0 (10 PX) : 5 pies 30 pies nadando]",
+        "table": {
+            "Fue": "4 (-3)",
+            "Des": "15 (+2)",
+            "Con": "11 (+0)",
+            "Int": "3 (-4)",
+            "Sab": "10 (+0)",
+            "Car": "4 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/271-pulpo"
+    },
+    {
+        "name": "Pudin negro",
+        "descripcion": "[Estas masas corrosivas son tan negras como el alquitrán y les mueve un hambre ciega que les hace recorrer los más lóbregos corredores en una búsqueda sin fin de materia orgánica que disolver en su interior. Estos grandes cienos se dividen en dos si se les corta o se les ataca con rayos para espanto de quienes se enfrentan a ellos.]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "5 (-3)",
+            "Con": "16 (+3)",
+            "Int": "1 (-5)",
+            "Sab": "6 (-2)",
+            "Car": "1 (-5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/170-pudin-negro"
+    },
+    {
+        "name": "Pseudodragón",
+        "descripcion": "[Un diminuto dragoncillo de buen corazón que suele servir como familiar y mascota a otros seres afines a él. Se comunica mediante la telepatía y ataca a sus enemigos empleando un aguijón somnífero.]",
+        "table": {
+            "Fue": "6 (-2)",
+            "Des": "15 (+2)",
+            "Con": "13 (+1)",
+            "Int": "10 (+0)",
+            "Sab": "12 (+1)",
+            "Car": "10 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/169-pseudodragon"
+    },
+    {
+        "name": "Plesiosaurus",
+        "descripcion": "[Un gran reptil marino dotado de un largo cuello fauces y cuatro poderosas aletas. Caza peces tiburones e incluso humanoides en costas y mares.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "15 (+2)",
+            "Con": "16 (+3)",
+            "Int": "2 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/168-plesiosaurus"
+    },
+    {
+        "name": "Plebeyo",
+        "descripcion": "[Los plebeyos pueden ser campesinos siervos esclavos sirvientes peregrinos mercaderes artesanos y ermitaños.]",
+        "table": {
+            "Fue": "10 (+0)",
+            "Des": "10 (+0)",
+            "Con": "10 (+0)",
+            "Int": "10 (+0)",
+            "Sab": "10 (+0)",
+            "Car": "10 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/313-plebeyo"
+    },
+    {
+        "name": "Poni",
+        "descripcion": "[:  : Bestia : 10 : 11 : 1/8 (25 PX) : 40 pies]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "10 (+0)",
+            "Con": "13 (+1)",
+            "Int": "2 (-4)",
+            "Sab": "11 (+0)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/270-poni"
+    },
+    {
+        "name": "Rinoceronte",
+        "descripcion": "[:  : Bestia : 11 (armadura natural) : 45 : 2 (450 PX) : 40 pies]",
+        "table": {
+            "Fue": "21 (+5)",
+            "Des": "8 (-1)",
+            "Con": "15 (+2)",
+            "Int": "2 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/277-rinoceronte"
+    },
+    {
+        "name": "Rata gigante",
+        "descripcion": "[:  : Bestia : 12 : 7 : 1/8 (25 PX) : 30 pies]",
+        "table": {
+            "Fue": "7 (-2)",
+            "Des": "15 (+2)",
+            "Con": "11 (+0)",
+            "Int": "2 (-4)",
+            "Sab": "10 (+0)",
+            "Car": "4 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/276-rata-gigante"
+    },
+    {
+        "name": "Planotáreo",
+        "descripcion": "[Seres alados de piel esmeralda que manejan gracias a sus musculosos brazos mandobles capaces de partir en dos al más poderoso demonio. Estos severos ángeles son la voluntad de sus señores la cual hacen cumplir por la fuerza invocando el poder de las tormentas o comandando legiones de insectos y son vistos con cierto temor por los mortales pues se sabe que no hay mentira o pecado que se pueda ocultar ante un planotáreo.]",
+        "table": {
+            "Fue": "24 (+7)",
+            "Des": "20 (+5)",
+            "Con": "24 (+7)",
+            "Int": "19 (+4)",
+            "Sab": "22 (+6)",
+            "Car": "25 (+7)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/167-planotareo"
+    },
+    {
+        "name": "Piraña",
+        "descripcion": "[La piraña es un pez carnívoro con dientes afilados. Las pirañas pueden adaptarse a cualquier entorno acuático incluyendo fríos lagos subterráneos. Normalmente se agrupan en enjambres. Las estadísticas del enjambre de pirañas aparecen en la página XXX.]",
+        "table": {
+            "Fue": "2 (-4)",
+            "Des": "16 (+3)",
+            "Con": "9 (-1)",
+            "Int": "1 (-5)",
+            "Sab": "7 (-2)",
+            "Car": "2 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/269-pirana"
+    },
+    {
+        "name": "Roc",
+        "descripcion": "[Titánica ave rapaz capaz de agarrar con sus patas al más grande de los elefantes y elevarlo sin dificultad hacia los cielos para después dejarlo caer. Tan impresionante como su tamaño y apetito es la velocidad que llega a alcanzar en vuelo así como los destrozos que ocasiona a quienes se le resisten.]",
+        "table": {
+            "Fue": "28 (+9)",
+            "Des": "10 (+0)",
+            "Con": "20 (+5)",
+            "Int": "3 (-4)",
+            "Sab": "10 (+0)",
+            "Car": "9 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/175-roc"
+    },
+    {
+        "name": "Remorhaz",
+        "descripcion": "[Un extraño y descomunal centípedo nativo de las regiones más frías del mundo pese a que su cuerpo es un horno que desprende calor suficiente como para derretir con rapidez el hielo. Si el remorhaz logra encajar un buen mordisco a su presa se la traga y la condena al ácido de su estómago.]",
+        "table": {
+            "Fue": "24 (+7)",
+            "Des": "13 (+1)",
+            "Con": "21 (+5)",
+            "Int": "4 (-3)",
+            "Sab": "10 (+0)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/174-remorhaz"
+    },
+    {
+        "name": "Pesadilla",
+        "descripcion": "[Terrorífico infernal similar a un caballo envuelto en llamas capaz de trotar entre nuestro mundo y su infierno de origen.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "15 (+2)",
+            "Con": "16 (+3)",
+            "Int": "10 (+0)",
+            "Sab": "13 (+1)",
+            "Car": "15 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/166-pesadilla"
+    },
+    {
+        "name": "Rata gigante enferma",
+        "descripcion": "[Algunas ratas gigantes son portadoras de repugnantes enfermedades que propagan con sus mordisco.]",
+        "table": {
+            "Fue": "7 (-2)",
+            "Des": "15 (+2)",
+            "Con": "11 (+0)",
+            "Int": "2 (-4)",
+            "Sab": "10 (+0)",
+            "Car": "4 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/11374-rata-gigante-enferma"
+    },
+    {
+        "name": "Perro intermitente",
+        "descripcion": "[El perro intermitente recibe su nombre debido a su capacidad para aparecer y desaparecer un talento del que se beneficia para sus ataques y para evitar el daño.]",
+        "table": {
+            "Fue": "12 (+1)",
+            "Des": "17 (+3)",
+            "Con": "12 (+1)",
+            "Int": "10 (+0)",
+            "Sab": "13 (+1)",
+            "Car": "11 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/268-perro-intermitente"
+    },
+    {
+        "name": "Perro de la muerte",
+        "descripcion": "[El perro de la muerte es un feo sabueso de dos cabezas que mora en llanuras y desiertos. En el corazón de un perro de la muerte bulle el odio y su predilección por la carne humanoide lo lleva a atacar a los viajeros y exploradores. Su saliva transmite una enfermedad que hace que la carne se desprenda poco a poco de los huesos.]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "14 (+2)",
+            "Con": "14 (+2)",
+            "Int": "3 (-4)",
+            "Sab": "13 (+1)",
+            "Car": "6 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/267-perro-de-la-muerte"
+    },
+    {
+        "name": "Pantera",
+        "descripcion": "[:  : Bestia : 12 : 13 : 1/4 (50 PX) : 50 pies 40 pies escalando]",
+        "table": {
+            "Fue": "14 (+2)",
+            "Des": "15 (+2)",
+            "Con": "10 (+0)",
+            "Int": "3 (-4)",
+            "Sab": "14 (+2)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/266-pantera"
+    },
+    {
+        "name": "Salamandra",
+        "descripcion": "[Gran elemental humanoide compuesto por lava y brasas que de cintura para abajo tiene un cuerpo serpentiforme. La salamandra es un ser egoísta que encuentra placer en atormentar a los demás seres vivos con sus llamas y larga lanza. Se las suele invocar como mercenarios aunque se conocen casos de salamandras que destacan como herreros y orfebres y para tal fin se las trae a este mundo.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "14 (+2)",
+            "Con": "15 (+2)",
+            "Int": "11 (+0)",
+            "Sab": "10 (+0)",
+            "Car": "12 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/180-salamandra"
+    },
+    {
+        "name": "Sapo gigante",
+        "descripcion": "[:  : Bestia : 11 : 39 : 1 (200 PX) : 20 pies 40 pies nadando]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "13 (+1)",
+            "Con": "13 (+1)",
+            "Int": "2 (-4)",
+            "Sab": "10 (+0)",
+            "Car": "3 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/278-sapo-gigante"
+    },
+    {
+        "name": "Sátiro",
+        "descripcion": "[Caótica fata con cuerpo de varón pero patas y cuernos de carnero famosa por su carácter festivo y seductor afición al licor y talento musical. Suelen medrar en los bosques más profundos donde celebran jaranas legendarias.]",
+        "table": {
+            "Fue": "12 (+1)",
+            "Des": "16 (+3)",
+            "Con": "11 (+0)",
+            "Int": "12 (+1)",
+            "Sab": "10 (+0)",
+            "Car": "14 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/187-satiro"
+    },
+    {
+        "name": "Sectario",
+        "descripcion": "[Los sectarios juran lealtad a los poderes oscuros como los príncipes elementales los señores demonios o los archidiablos. La mayoría ocultan sus lealtades para evitar ser aislados encarcelados o ejecutados por sus creencias. A diferencia de los acólitos malignos los sectarios muestran signos de locura en sus creencias y prácticas.]",
+        "table": {
+            "Fue": "11 (+0)",
+            "Des": "12 (+1)",
+            "Con": "10 (+0)",
+            "Int": "10 (+0)",
+            "Sab": "11 (+0)",
+            "Car": "10 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/315-sectario"
+    },
+    {
+        "name": "Sajuaguín",
+        "descripcion": "[Un malvado humanoide marino dotado de agallas escamas cola dientes de tiburón y miembros palmeados. Su especie tiraniza regiones enteras del ancho mar luchando en armonía con los tiburones y detesta al resto de especies sintientes que habitan los océanos y sus costas.]",
+        "table": {
+            "Fue": "13 (+1)",
+            "Des": "11 (+0)",
+            "Con": "12 (+1)",
+            "Int": "12 (+1)",
+            "Sab": "13 (+1)",
+            "Car": "9 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/179-sajuaguin"
+    },
+    {
+        "name": "Pegaso",
+        "descripcion": "[Hermoso celestial similar a un caballo alado blanco tan inteligente como un humano.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "15 (+2)",
+            "Con": "16 (+3)",
+            "Int": "10 (+0)",
+            "Sab": "15 (+2)",
+            "Car": "13 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/165-pegaso"
+    },
+    {
+        "name": "Semidragón rojo veterano",
+        "descripcion": "[:  : Monstruo : 18 (placas) : 65 : 5 (1.800 PX) : 30 pies]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "13 (+1)",
+            "Con": "14 (+2)",
+            "Int": "10 (+0)",
+            "Sab": "11 (+0)",
+            "Car": "10 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/181-semidragon-rojo-veterano"
+    },
+    {
+        "name": "Saga nocturna",
+        "descripcion": "[Esta infernal criatura tiene el aspecto de una feísima anciana con cuernos y largas garras que perfora su piel azul con abalorios y que al sonreír luce orgullosa dientes amarillos afilados e irregulares. La saga nocturna abandona su plano de origen a voluntad para cazar almas y es capaz de perseguir a sus presas hasta en los mundos de sus sueños.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "15 (+2)",
+            "Con": "16 (+3)",
+            "Int": "16 (+3)",
+            "Sab": "14 (+2)",
+            "Car": "16 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/178-saga-nocturna"
+    },
+    {
+        "name": "Saga marina",
+        "descripcion": "[Fata espantosa de aspecto anfibio y decrépito recubierta de algas y restos marinos. La saga marina odia con toda la intensidad de su negra alma a las personas bellas a las que intentará destruir engañándolas y finalmente empleando la fuerza.]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "13 (+1)",
+            "Con": "16 (+3)",
+            "Int": "12 (+1)",
+            "Sab": "12 (+1)",
+            "Car": "13 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/177-saga-marina"
+    },
+    {
+        "name": "Saga cetrina",
+        "descripcion": "[Una vil hada antropófaga que recuerda a una anciana de aspecto repugnante pelo y piel verdes. Recorre las regiones pantanosas que rodean su guarida engañando a los mortales con un disfraz de muchacha indefensa o proyectando falsas peticiones de auxilio que conduzcan a las almas puras a sus emboscadas.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "12 (+1)",
+            "Con": "16 (+3)",
+            "Int": "13 (+1)",
+            "Sab": "14 (+2)",
+            "Car": "14 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/176-saga-cetrina"
+    },
+    {
+        "name": "Sacerdote",
+        "descripcion": "[Los sacerdotes transmiten las enseñanzas de sus dioses a la gente de a pie. Son líderes espirituales de los templos y santuarios y suelen tener posiciones de influencia en sus comunidades. Los sacerdotes malignos pueden trabajar abiertamente bajo el mando de un tirano o liderar sectas religiosas escondidas en las sombras de la alta sociedad llevando a cabo ritos depravados.]",
+        "table": {
+            "Fue": "10 (+0)",
+            "Des": "10 (+0)",
+            "Con": "12 (+1)",
+            "Int": "13 (+1)",
+            "Sab": "16 (+3)",
+            "Car": "13 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/314-sacerdote"
+    },
+    {
+        "name": "Tejón",
+        "descripcion": "[:  : Bestia : 10 : 3 : 0 (10 PX) : 20 pies 5 pies excavando]",
+        "table": {
+            "Fue": "4 (-3)",
+            "Des": "11 (+0)",
+            "Con": "12 (+1)",
+            "Int": "2 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/286-tejon"
+    },
+    {
+        "name": "Tarasca",
+        "descripcion": "[La tarasca es una monstruosidad bípeda que desplaza su masa acorazada con pesadez mientras sus largos brazos acabados en garras barren la tierra buscando alimento que introducir en su profunda boca. El cuerpo de este monstruo legendario está protegido por un caparazón blindado que resiste tanto los proyectiles mágicos como los ordinarios y aun si es herida por alguna fuerza extraña la tarasca es capaz de regenerar todo el daño con rapidez. Por fortuna en el mundo solo existe una sola de estas criaturas.]",
+        "table": {
+            "Fue": "30 (+10)",
+            "Des": "11 (+0)",
+            "Con": "30 (+10)",
+            "Int": "3 (-4)",
+            "Sab": "11 (+0)",
+            "Car": "11 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/189-tarasca"
+    },
+    {
+        "name": "Súcubo/íncubo",
+        "descripcion": "[Estos seductores infernales toman el aspecto de jóvenes humanoides dotados de alas y otros rasgos blasfemos que sin embargo no reducen su atractivo. Las súcubos y los íncubos viven para arrastrar a los mortales a las simas de la decadencia mediante irresistibles promesas oscuros favores y placeres prohibidos. Pero hay que tener cuidado pues el contacto carnal con un infernal de este tipo drena tanto el alma como el cuerpo y los incautos pueden llegar a morir consumidos por ellos.]",
+        "table": {
+            "Fue": "8 (-1)",
+            "Des": "17 (+3)",
+            "Con": "13 (+1)",
+            "Int": "15 (+2)",
+            "Sab": "12 (+1)",
+            "Car": "20 (+5)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/188-sucubo-incubo"
+    },
+    {
+        "name": "Sombra",
+        "descripcion": "[Un malvado no muerto similar a una sombra humanoide que es capaz de consumir la fuerza de los vivos. Quienes mueran consumidos por una sombra volverán de la tumba como una de estas criaturas.]",
+        "table": {
+            "Fue": "6 (-2)",
+            "Des": "14 (+2)",
+            "Con": "13 (+1)",
+            "Int": "6 (-2)",
+            "Sab": "10 (+0)",
+            "Car": "8 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/186-sombra"
+    },
+    {
+        "name": "Solar",
+        "descripcion": "[El solar es el más raro y escaso de cuantos tipos de ángeles existen para alivio de demonios y pecadores pues representa la gloria y el poder de sus divinos amos. Un solar es un musculoso humanoide de piel carmesí y enormes alas dotado de un poder sacro con el que abrasa a sus enemigos cuando no los aniquila con sus saetas portadoras de muerte o con sus grandes espadas que son capaces de blandir con la mente. Estos seres contemplativos son terribles de ver en combate pues los siguen ráfagas de poder destructor y ni la muerte parece afectar a quienes se ganan su aprobación.]",
+        "table": {
+            "Fue": "26 (+8)",
+            "Des": "22 (+6)",
+            "Con": "26 (+8)",
+            "Int": "25 (+7)",
+            "Sab": "25 (+7)",
+            "Car": "30 (+10)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/185-solar"
+    },
+    {
+        "name": "Sirénido",
+        "descripcion": "[Humanoide acuático similar a un humano o un elfo de piel azulada y cola de pez en lugar de piernas. Aunque está totalmente adaptado al entorno marino es capaz de respirar fuera del agua.]",
+        "table": {
+            "Fue": "10 (+0)",
+            "Des": "13 (+1)",
+            "Con": "12 (+1)",
+            "Int": "11 (+0)",
+            "Sab": "11 (+0)",
+            "Car": "12 (+1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/184-sirenido"
+    },
+    {
+        "name": "Sirenio",
+        "descripcion": "[Monstruosa perversión del sirénido fruto de una maldición. Sus rasgos son bestiales y más propios de un depredador marino que de un humano. El sirenio es una amenaza malvada que caza a otros seres inteligentes aprovechando su fuerza natural y el alcance de su arpón.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "10 (+0)",
+            "Con": "15 (+2)",
+            "Int": "8 (-1)",
+            "Sab": "10 (+0)",
+            "Car": "9 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/183-sirenio"
+    },
+    {
+        "name": "Simio gigante",
+        "descripcion": "[:  : Bestia : 12 : 157 : 7 (2.900 PX) : 40 pies 40 pies escalando]",
+        "table": {
+            "Fue": "23 (+6)",
+            "Des": "14 (+2)",
+            "Con": "18 (+4)",
+            "Int": "7 (-2)",
+            "Sab": "12 (+1)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/285-simio-gigante"
+    },
+    {
+        "name": "Simio",
+        "descripcion": "[:  : Bestia : 12 : 19 : 1/2 (100 PX) : 30 pies 30 pies escalando]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "14 (+2)",
+            "Con": "14 (+2)",
+            "Int": "6 (-2)",
+            "Sab": "12 (+1)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/284-simio"
+    },
+    {
+        "name": "Serpiente voladora",
+        "descripcion": "[La serpiente voladora es una serpiente de brillantes colores y con alas que se encuentra en las junglas remotas. Las gentes tribales y los sectarios a veces las domestican como mensajeros que entregan pergaminos enrollados en sus colas.]",
+        "table": {
+            "Fue": "4 (-3)",
+            "Des": "18 (+4)",
+            "Con": "11 (+0)",
+            "Int": "2 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/283-serpiente-voladora"
+    },
+    {
+        "name": "Serpiente venenosa gigante",
+        "descripcion": "[:  : Bestia : 14 : 11 : 1/4 (50 PX) : 30 pies 30 pies nadando]",
+        "table": {
+            "Fue": "10 (+0)",
+            "Des": "18 (+4)",
+            "Con": "13 (+1)",
+            "Int": "2 (-4)",
+            "Sab": "10 (+0)",
+            "Car": "3 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/282-serpiente-venenosa-gigante"
+    },
+    {
+        "name": "Serpiente venenosa",
+        "descripcion": "[:  : Bestia : 13 : 2 : 1/8 (25 PX) : 30 pies 30 pies nadando]",
+        "table": {
+            "Fue": "2 (-4)",
+            "Des": "16 (+3)",
+            "Con": "11 (+0)",
+            "Int": "1 (-5)",
+            "Sab": "10 (+0)",
+            "Car": "3 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/281-serpiente-venenosa"
+    },
+    {
+        "name": "Serpiente constrictora gigante",
+        "descripcion": "[:  : Bestia : 12 : 60 : 2 (450 PX) : 30 pies 30 pies nadando]",
+        "table": {
+            "Fue": "19 (+4)",
+            "Des": "14 (+2)",
+            "Con": "12 (+1)",
+            "Int": "1 (-5)",
+            "Sab": "10 (+0)",
+            "Car": "3 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/280-serpiente-constrictora-gigante"
+    },
+    {
+        "name": "Serpiente constrictora",
+        "descripcion": "[:  : Bestia : 12 : 13 : 1/4 (50 PX) : 30 pies 30 pies nadando]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "14 (+2)",
+            "Con": "12 (+1)",
+            "Int": "1 (-5)",
+            "Sab": "10 (+0)",
+            "Car": "3 (-4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/279-serpiente-constrictora"
+    },
+    {
+        "name": "Señor de las momias",
+        "descripcion": "[Un soberano de tiempos pretéritos preservado mediante complicados rituales de embalsamamiento y nigromancia. El resultado es un poderoso muerto viviente dotado de grandes poderes mágicos y capaz de proferir terribles maldiciones ya sea con su toque o conjurando en lenguas olvidadas hace milenios.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "10 (+0)",
+            "Con": "17 (+3)",
+            "Int": "11 (+0)",
+            "Sab": "18 (+4)",
+            "Car": "16 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/182-senor-de-las-momias"
+    },
+    {
+        "name": "Zombi",
+        "descripcion": "[Un cadáver reciente animado por energías nigrománticas que lo espolean para que ataque a los vivos. Este monstruo es estúpido y lento aunque increíblemente resistente.]",
+        "table": {
+            "Fue": "13 (+1)",
+            "Des": "6 (-2)",
+            "Con": "16 (+3)",
+            "Int": "3 (-4)",
+            "Sab": "6 (-2)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/200-zombi"
+    },
+    {
+        "name": "Tumulario",
+        "descripcion": "[Un malevolente guerrero no muerto que ronda por viejos túmulos y castillos atacando con odio a quien se acerca a sus dominios. El tumulario detesta a los vivos y solo obtiene placer asesinándolos para luego levantar sus cadáveres como zombis atados a su voluntad.]",
+        "table": {
+            "Fue": "15 (+2)",
+            "Des": "14 (+2)",
+            "Con": "16 (+3)",
+            "Int": "10 (+0)",
+            "Sab": "13 (+1)",
+            "Car": "15 (+2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/194-tumulario"
+    },
+    {
+        "name": "Vrock",
+        "descripcion": "[Este demonio carroñero recuerda al cruce entre un hombre y un buitre. Se abalanza desde los cielos rodeado de esporas y profiriendo agudos chillidos que taladran las mentes de quienes los oyen. Algunos piensan que los vrock están hechos con las almas de los mortales más violentos y llenos de odio hacia el prójimo. Viendo cómo destrozan a sus adversarios es difícil no darles la razón.]",
+        "table": {
+            "Fue": "17 (+3)",
+            "Des": "15 (+2)",
+            "Con": "18 (+4)",
+            "Int": "8 (-1)",
+            "Sab": "13 (+1)",
+            "Car": "8 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/198-vrock"
+    },
+    {
+        "name": "Xorn",
+        "descripcion": "[Un pétreo elemental con forma de barril dotado de tres brazos y una boca llena de dientes en la parte superior de su cuerpo. Siente atracción por el oro la plata y las gemas puesto que componen la base de su dieta.]",
+        "table": {
+            "Fue": "17 (+3)",
+            "Des": "10 (+0)",
+            "Con": "22 (+6)",
+            "Int": "11 (+0)",
+            "Sab": "10 (+0)",
+            "Car": "11 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/199-xorn"
+    },
+    {
+        "name": "Unicornio",
+        "descripcion": "[Celestial con la apariencia de un equino blanco con un bello cuerno en su frente famoso tanto por su inteligencia y nobleza como por sus poderes mágicos. El unicornio es tremendamente poderoso un enemigo declarado del mal y protector de los inocentes.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "14 (+2)",
+            "Con": "15 (+2)",
+            "Int": "11 (+0)",
+            "Sab": "17 (+3)",
+            "Car": "16 (+3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/196-unicornio"
+    },
+    {
+        "name": "Tyrannosaurus rex",
+        "descripcion": "[Colosal dinosaurio dotado de unas enormes fauces llenas de dientes curvos poderosas patas que le permiten alcanzar grandes velocidades y una cola gruesa con la que puede derribar a sus presas antes de abalanzarse a por sus partes blandas.]",
+        "table": {
+            "Fue": "25 (+7)",
+            "Des": "10 (+0)",
+            "Con": "19 (+4)",
+            "Int": "2 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "9 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/195-tyrannosaurus-rex"
+    },
+    {
+        "name": "Veterano",
+        "descripcion": "[Los veteranos son luchadores profesionales que toman las armas para ganar dinero o para proteger algo en lo que creen o valoran. Entre ellos se incluyen soldados retirados con una dilatada experiencia y guerreros que nunca han servido a nadie más que a sí mismos.]",
+        "table": {
+            "Fue": "16 (+3)",
+            "Des": "13 (+1)",
+            "Con": "14 (+2)",
+            "Int": "10 (+0)",
+            "Sab": "11 (+0)",
+            "Car": "10 (+0)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/316-veterano"
+    },
+    {
+        "name": "Vampiro",
+        "descripcion": "[El oscuro señor de la noche es un guerrero de blanca piel largos colmillos regia apariencia y ojos de mirada lobuna. Se alimenta de sangre y tal es su maldad que el mismo sol lo aborrece tanto que hace que su piel arda por lo que solo actúa bajo el manto nocturno. Comanda hordas de bestias y alimañas leales y es capaz de levantar como un fiel esbirro a los enemigos con los que haya saciado su sed de sangre.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "18 (+4)",
+            "Con": "18 (+4)",
+            "Int": "17 (+3)",
+            "Sab": "15 (+2)",
+            "Car": "18 (+4)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/197-vampiro"
+    },
+    {
+        "name": "Troll",
+        "descripcion": "[Un altísimo y delgado ser de aspecto insano con una cabeza enorme parodia monstruosa de la un ser humano y una boca y una nariz desproporcionadamente grandes. Sus largos y desgarbados miembros apenas tienen piel con la que cubrir los huesos aunque el troll parece lleno de vitalidad especialmente al golpear con sus garras a quienes osan hacerle frente.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "13 (+1)",
+            "Con": "20 (+5)",
+            "Int": "7 (-2)",
+            "Sab": "9 (-1)",
+            "Car": "7 (-2)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/192-troll"
+    },
+    {
+        "name": "Triceratops",
+        "descripcion": "[Un dinosaurio herbívoro blindado cuyo grueso cráneo está dotado de tres cuernos que causan grandes destrozos cuando carga contra sus depredadores y una gran cresta circular con forma de abanico. Tiene un poderoso pico que le permite arrancar los arbustos que conforman su alimentación.]",
+        "table": {
+            "Fue": "22 (+6)",
+            "Des": "9 (-1)",
+            "Con": "17 (+3)",
+            "Int": "2 (-4)",
+            "Sab": "11 (+0)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/191-triceratops"
+    },
+    {
+        "name": "Tigre dientes de sable",
+        "descripcion": "[:  : Bestia : 12 : 52 : 2 (450 PX) : 40 pies]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "14 (+2)",
+            "Con": "15 (+2)",
+            "Int": "3 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "8 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/292-tigre-dientes-de-sable"
+    },
+    {
+        "name": "Tigre",
+        "descripcion": "[:  : Bestia : 12 : 37 : 1 (200 PX) : 40 pies]",
+        "table": {
+            "Fue": "17 (+3)",
+            "Des": "15 (+2)",
+            "Con": "14 (+2)",
+            "Int": "3 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "8 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/291-tigre"
+    },
+    {
+        "name": "Tiburón gigante",
+        "descripcion": "[El tiburón gigante mide 30 pies de largo y normalmente se encuentra en las profundidades de los océanos. Sin ningún miedo caza cualquier cosa que se cruce en su camino incluyendo ballenas y barcos.]",
+        "table": {
+            "Fue": "23 (+6)",
+            "Des": "11 (+0)",
+            "Con": "21 (+5)",
+            "Int": "1 (-5)",
+            "Sab": "10 (+0)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/290-tiburon-gigante"
+    },
+    {
+        "name": "Tiburón de arrecife",
+        "descripcion": "[El tiburón de arrecife es más pequeño que el tiburón gigante y el cazador. Vive en aguas oscuras y en arrecifes de corales y caza en manada. Un espécimen adulto mide de 6 a 10 pies de longitud.]",
+        "table": {
+            "Fue": "14 (+2)",
+            "Des": "13 (+1)",
+            "Con": "13 (+1)",
+            "Int": "1 (-5)",
+            "Sab": "10 (+0)",
+            "Car": "4 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/289-tiburon-de-arrecife"
+    },
+    {
+        "name": "Tiburón cazador",
+        "descripcion": "[El tiburón cazador es más pequeño que el tiburón gigante pero más fiero que el tiburón de arrecife. Caza en las aguas profundas normalmente solo pero varios tiburones cazadores podrían alimentarse en la misma área. Un tiburón cazador adulto mide de 15 a 20 pies de longitud.]",
+        "table": {
+            "Fue": "18 (+4)",
+            "Des": "13 (+1)",
+            "Con": "15 (+2)",
+            "Int": "1 (-5)",
+            "Sab": "10 (+0)",
+            "Car": "4 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/288-tiburon-cazador"
+    },
+    {
+        "name": "Tejón gigante",
+        "descripcion": "[:  : Bestia : 10 : 13 : 1/4 (50 PX) : 30 pies 10 pies excavando]",
+        "table": {
+            "Fue": "13 (+1)",
+            "Des": "10 (+0)",
+            "Con": "15 (+2)",
+            "Int": "2 (-4)",
+            "Sab": "12 (+1)",
+            "Car": "5 (-3)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/287-tejon-gigante"
+    },
+    {
+        "name": "Trácnido",
+        "descripcion": "[Un cruce inmundo entre una abotargada araña y un hombre de largos miembros rematados por garras con una cabeza similar a la de un arácnido de cuyos colmillos gotea veneno. El trácnico es un depredador inteligente capaz de tejer a toda velocidad redes pegajosas y que se regodea en voz alta cuando una presa cae en su trampa.]",
+        "table": {
+            "Fue": "14 (+2)",
+            "Des": "15 (+2)",
+            "Con": "13 (+1)",
+            "Int": "7 (-2)",
+            "Sab": "12 (+1)",
+            "Car": "8 (-1)"
+        },
+        "link": "https://dungeon20.com/games/dnd-5/creatures/193-tracnido"
+    }
+]
